@@ -1,0 +1,8 @@
+<isdecorate template="common/layout/page">
+    <h1>Basket items are :</h1>
+    <ol>
+        <isloop items="${pdict.currentBasket.getProductLineItems()}" var="productLineItem" status="productLineItem">
+            <li>${productLineItem.product.name}</li>
+        </isloop>
+    </ol>
+</isdecorate>

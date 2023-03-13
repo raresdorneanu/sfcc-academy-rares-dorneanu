@@ -1,0 +1,9 @@
+<isdecorate template="common/layout/page">
+    <h1>
+        <isprint value="${pdict.title}" encoding="htmlcontent" />
+    </h1>
+    <p>${pdict.profileFirstName}</p>
+    <p>${pdict.profileLastName}</p>
+    <p>${pdict.profileEmail}</p>
+    <p>${pdict.profilePass}</p>
+</isdecorate>

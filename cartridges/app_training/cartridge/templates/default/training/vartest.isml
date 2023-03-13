@@ -1,0 +1,19 @@
+<isinclude template="product/productTile"/>
+
+<isset name="sessionVar" value="${pdict.title}" scope="session"/>
+<p>Session variable value: ${session.custom.sessionVar}</p>
+<isset name="requestVar" value="${pdict.title2}" scope="request"/>
+<p>Request variable value: ${request.custom.requestVar}</p>
+<isset name="pageVar" value="${pdict.title3}" scope="page"/>
+<p>Page variable value: ${pageVar}</p>
+
+<isset name="booleanVar" value="${false}" scope="session"/>
+<p>Boolean session variable value: ${session.custom.booleanVar}</p>
+<isset name="stringVar" value="Helloooooo" scope="session"/>
+<p>String session variable value: ${session.custom.stringVar}</p>
+
+<isset name="integer" value="${pdict.increment}" scope="session"/>
+<p>Integer variable value: ${session.custom.integer}</p>
+
+<p>Incremented value of variable requestVar: ${request.custom.requestVar + 1} because it's "string" + number</p>
+<p>Incremented value of INTEGER variable: first value of integer: ${session.custom.integer}, incremented value of integer: ${session.custom.integer +1}</p>
