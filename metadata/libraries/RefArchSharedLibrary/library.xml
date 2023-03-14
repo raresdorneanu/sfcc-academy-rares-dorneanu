@@ -3480,113 +3480,16 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
         <custom-attributes>
             <custom-attribute attribute-id="body" xml:lang="x-default">&lt;?xml version="1.0" encoding="utf-8" ?&gt;&#13;
 &lt;DDDCarouselV2&gt;&#13;
-  &lt;Images&#13;
-    CarouselWidth="600"&#13;
-    CarouselCenterLeft="0"&#13;
-    CarouselCenterTop="-35"&#13;
-    CarouselRandomImages="0"&#13;
-    CarouselRenderQuality="3"&#13;
-    CarouselPreloader=""&#13;
-    &#13;
-    BackGroundVisible="true"&#13;
-    BackGroundPath=""&#13;
-    BackGroundTop="0"&#13;
-    BackGroundLeft="0"&#13;
-    &#13;
-    NavigationType="custom"&#13;
-    NavigationSpeed="15"&#13;
-    NavigationButtonsColor="#ff0000"&#13;
-    NavigationButtonsAlpha="80"&#13;
-    NavigationButtonLeftLeft="260"&#13;
-    NavigationButtonLeftTop="330"&#13;
-    NavigationButtonLeftPath="images/flash/cmdLeft.png?$staticlink$"&#13;
-    NavigationButtonRightLeft="440"&#13;
-    NavigationButtonRightTop="330"&#13;
-    NavigationButtonRightPath="images/flash/cmdRight.png?$staticlink$"&#13;
-    &#13;
-    ReflectionVisible="true"&#13;
-    ReflectionAlpha="30"&#13;
-    ReflectionHeight="25"&#13;
-    ReflectionDistance="0"&#13;
-    &#13;
-    EffectsTime="0.5"&#13;
-    EffectCarouselEntry="flytop"&#13;
-    EffectCarouselExit="flytop"&#13;
-    EffectDetailImageEntry="flyleft"&#13;
-    EffectDetailImageExit="flyleft"&#13;
-    EffectContent1Entry="flyleft"&#13;
-    EffectContent1Exit="flyleft"&#13;
-    EffectContent2Entry="flyright"&#13;
-    EffectContent2Exit="flyright"&#13;
-    &#13;
-    HoverGlowEnabled="false"&#13;
-    HoverGlowColor="#ff0000"&#13;
-    HoverGlowAlpha="100"&#13;
-    HoverGlowBlur="32"&#13;
-    HoverGlowStength="2"&#13;
-    HoverGlowQuality="3"&#13;
-    &#13;
-    ToolTipHTML="false"&#13;
-    ToolTipAntiAliasing="false"&#13;
-    ToolTipAlign="left"&#13;
-    ToolTipBold="true"&#13;
-    ToolTipItalic="false"&#13;
-    ToolTipFont="Verdana"&#13;
-    ToolTipFontColor="#ffffff"&#13;
-    ToolTipFontSize="14"&#13;
-    ToolTipLeading="0"&#13;
-    ToolTipUnderline="false"&#13;
-    ToolTipLeft="90"&#13;
-    ToolTipTop="10"&#13;
-    ToolTipWidth="220"&#13;
-    ToolTipHeight="30"&#13;
-    ToolTipBgColor=""&#13;
-    ToolTipBorder="false"&#13;
-    ToolTipBorderColor="#b50000"&#13;
-    ToolTipTopMost="true"&#13;
-    &#13;
-    DetailPageEnabled="false"&#13;
-    DetailImageZoom="100"&#13;
-    DetailImageLeft="20"&#13;
-    DetailImageTop="75"&#13;
-    &#13;
-    Content1HTML="false"&#13;
-    Content1AntiAliasing="false"&#13;
-    Content1Align="left"&#13;
-    Content1Bold="false"&#13;
-    Content1Italic="false"&#13;
-    Content1Font="Verdana"&#13;
-    Content1FontColor="#ffffff"&#13;
-    Content1FontSize="9"&#13;
-    Content1Leading="0"&#13;
-    Content1Underline="false"&#13;
-    Content1Left="38"&#13;
-    Content1Top="50"&#13;
-    Content1Width="120"&#13;
-    Content1Height="25"&#13;
-    Content1TopMost="false"&#13;
-    Content1BgColor=""&#13;
-    Content1Border="false"&#13;
-    Content1BorderColor="#b50000"&#13;
-    &#13;
-    Content2HTML="false"&#13;
-    Content2AntiAliasing="false"&#13;
-    Content2Align="left"&#13;
-    Content2Bold="false"&#13;
-    Content2Italic="false"&#13;
-    Content2Font="Verdana"&#13;
-    Content2FontColor="#dddddd"&#13;
-    Content2FontSize="11"&#13;
-    Content2Leading="0"&#13;
-    Content2Underline="false"&#13;
-    Content2Left="185"&#13;
-    Content2Top="25"&#13;
-    Content2Width="300"&#13;
-    Content2Height="100"&#13;
-    Content2TopMost="false"&#13;
-    Content2BgColor=""&#13;
-    Content2Border="false"&#13;
-    Content2BorderColor="#b50000"  &gt;&#13;
+  &lt;Images&#13; CarouselWidth="600"&#13; CarouselCenterLeft="0"&#13; CarouselCenterTop="-35"&#13; CarouselRandomImages="0"&#13; CarouselRenderQuality="3"&#13; CarouselPreloader=""&#13;
+    &#13; BackGroundVisible="true"&#13; BackGroundPath=""&#13; BackGroundTop="0"&#13; BackGroundLeft="0"&#13;
+    &#13; NavigationType="custom"&#13; NavigationSpeed="15"&#13; NavigationButtonsColor="#ff0000"&#13; NavigationButtonsAlpha="80"&#13; NavigationButtonLeftLeft="260"&#13; NavigationButtonLeftTop="330"&#13; NavigationButtonLeftPath="images/flash/cmdLeft.png?$staticlink$"&#13; NavigationButtonRightLeft="440"&#13; NavigationButtonRightTop="330"&#13; NavigationButtonRightPath="images/flash/cmdRight.png?$staticlink$"&#13;
+    &#13; ReflectionVisible="true"&#13; ReflectionAlpha="30"&#13; ReflectionHeight="25"&#13; ReflectionDistance="0"&#13;
+    &#13; EffectsTime="0.5"&#13; EffectCarouselEntry="flytop"&#13; EffectCarouselExit="flytop"&#13; EffectDetailImageEntry="flyleft"&#13; EffectDetailImageExit="flyleft"&#13; EffectContent1Entry="flyleft"&#13; EffectContent1Exit="flyleft"&#13; EffectContent2Entry="flyright"&#13; EffectContent2Exit="flyright"&#13;
+    &#13; HoverGlowEnabled="false"&#13; HoverGlowColor="#ff0000"&#13; HoverGlowAlpha="100"&#13; HoverGlowBlur="32"&#13; HoverGlowStength="2"&#13; HoverGlowQuality="3"&#13;
+    &#13; ToolTipHTML="false"&#13; ToolTipAntiAliasing="false"&#13; ToolTipAlign="left"&#13; ToolTipBold="true"&#13; ToolTipItalic="false"&#13; ToolTipFont="Verdana"&#13; ToolTipFontColor="#ffffff"&#13; ToolTipFontSize="14"&#13; ToolTipLeading="0"&#13; ToolTipUnderline="false"&#13; ToolTipLeft="90"&#13; ToolTipTop="10"&#13; ToolTipWidth="220"&#13; ToolTipHeight="30"&#13; ToolTipBgColor=""&#13; ToolTipBorder="false"&#13; ToolTipBorderColor="#b50000"&#13; ToolTipTopMost="true"&#13;
+    &#13; DetailPageEnabled="false"&#13; DetailImageZoom="100"&#13; DetailImageLeft="20"&#13; DetailImageTop="75"&#13;
+    &#13; Content1HTML="false"&#13; Content1AntiAliasing="false"&#13; Content1Align="left"&#13; Content1Bold="false"&#13; Content1Italic="false"&#13; Content1Font="Verdana"&#13; Content1FontColor="#ffffff"&#13; Content1FontSize="9"&#13; Content1Leading="0"&#13; Content1Underline="false"&#13; Content1Left="38"&#13; Content1Top="50"&#13; Content1Width="120"&#13; Content1Height="25"&#13; Content1TopMost="false"&#13; Content1BgColor=""&#13; Content1Border="false"&#13; Content1BorderColor="#b50000"&#13;
+    &#13; Content2HTML="false"&#13; Content2AntiAliasing="false"&#13; Content2Align="left"&#13; Content2Bold="false"&#13; Content2Italic="false"&#13; Content2Font="Verdana"&#13; Content2FontColor="#dddddd"&#13; Content2FontSize="11"&#13; Content2Leading="0"&#13; Content2Underline="false"&#13; Content2Left="185"&#13; Content2Top="25"&#13; Content2Width="300"&#13; Content2Height="100"&#13; Content2TopMost="false"&#13; Content2BgColor=""&#13; Content2Border="false"&#13; Content2BorderColor="#b50000"  &gt;&#13;
     &lt;Image&gt;&#13;
       &lt;ImagePath&gt;images/homepage/img01.jpg?$staticlink$&lt;/ImagePath&gt;&#13;
       &lt;ImageLink&gt;$url('Search-Show','cgid','womens-footwear')$&lt;/ImageLink&gt;&#13;
@@ -3643,163 +3546,26 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
     &lt;/Image&gt;  &#13;
   &lt;/Images&gt;&#13;
 &lt;StaticContents&gt;&#13;
-  &lt;StaticContent&#13;
-    HTML="false"&#13;
-    AntiAliasing="false"&#13;
-    Align="left"&#13;
-    Bold="false"&#13;
-    Italic="false"&#13;
-    Font="Verdana"&#13;
-    FontColor="#333333"&#13;
-    FontSize="11"&#13;
-    Leading="0"&#13;
-    Underline="false"&#13;
-    Left="320"&#13;
-    Top="10"&#13;
-    Width="1200"&#13;
-    Height="20"&#13;
-    TopMost="true"&#13;
-    BgColor=""&#13;
-    Border="false"&#13;
-    BorderColor="#b50000"&#13;
-    VisibleOnCarouselPage="true"&#13;
-    VisibleOnDetailPage="false" &gt;&#13;
+  &lt;StaticContent&#13; HTML="false"&#13; AntiAliasing="false"&#13; Align="left"&#13; Bold="false"&#13; Italic="false"&#13; Font="Verdana"&#13; FontColor="#333333"&#13; FontSize="11"&#13; Leading="0"&#13; Underline="false"&#13; Left="320"&#13; Top="10"&#13; Width="1200"&#13; Height="20"&#13; TopMost="true"&#13; BgColor=""&#13; Border="false"&#13; BorderColor="#b50000"&#13; VisibleOnCarouselPage="true"&#13; VisibleOnDetailPage="false" &gt;&#13;
     &lt;Content&gt;&lt;![CDATA[]]&gt;&lt;/Content&gt;&#13;
   &lt;/StaticContent&gt;&#13;
-  &lt;StaticContent&#13;
-    HTML="false" &#13;
-    AntiAliasing="false"&#13;
-    Align="left" &#13;
-    Bold="false" &#13;
-    Italic="false"&#13;
-    Font="Verdana"&#13;
-    FontColor="#333333" &#13;
-    FontSize="11" &#13;
-    Leading="0"  &#13;
-    Underline="false"&#13;
-    Left="320" &#13;
-    Top="220"&#13;
-    Width="1200"&#13;
-    Height="20"&#13;
-    TopMost="true"&#13;
-    BgColor=""&#13;
-    Border="false"&#13;
-    BorderColor="#b50000"&#13;
-    VisibleOnCarouselPage="false"&#13;
-    VisibleOnDetailPage="true" &gt;&#13;
+  &lt;StaticContent&#13; HTML="false" &#13; AntiAliasing="false"&#13; Align="left" &#13; Bold="false" &#13; Italic="false"&#13; Font="Verdana"&#13; FontColor="#333333" &#13; FontSize="11" &#13; Leading="0"  &#13; Underline="false"&#13; Left="320" &#13; Top="220"&#13; Width="1200"&#13; Height="20"&#13; TopMost="true"&#13; BgColor=""&#13; Border="false"&#13; BorderColor="#b50000"&#13; VisibleOnCarouselPage="false"&#13; VisibleOnDetailPage="true" &gt;&#13;
     &lt;Content&gt;&lt;![CDATA[]]&gt;&lt;/Content&gt;&#13;
   &lt;/StaticContent&gt;    &#13;
 &lt;/StaticContents&gt;&#13;
 &lt;/DDDCarouselV2&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;?xml version="1.0" encoding="utf-8" ?&gt;&#13;
 &lt;DDDCarouselV2&gt;&#13;
-  &lt;Images&#13;
-    CarouselWidth="600"&#13;
-    CarouselCenterLeft="0"&#13;
-    CarouselCenterTop="-35"&#13;
-    CarouselRandomImages="0"&#13;
-    CarouselRenderQuality="3"&#13;
-    CarouselPreloader=""&#13;
-    &#13;
-    BackGroundVisible="true"&#13;
-    BackGroundPath=""&#13;
-    BackGroundTop="0"&#13;
-    BackGroundLeft="0"&#13;
-    &#13;
-    NavigationType="custom"&#13;
-    NavigationSpeed="15"&#13;
-    NavigationButtonsColor="#ff0000"&#13;
-    NavigationButtonsAlpha="80"&#13;
-    NavigationButtonLeftLeft="260"&#13;
-    NavigationButtonLeftTop="330"&#13;
-    NavigationButtonLeftPath="images/flash/cmdLeft.png?$staticlink$"&#13;
-    NavigationButtonRightLeft="440"&#13;
-    NavigationButtonRightTop="330"&#13;
-    NavigationButtonRightPath="images/flash/cmdRight.png?$staticlink$"&#13;
-    &#13;
-    ReflectionVisible="true"&#13;
-    ReflectionAlpha="30"&#13;
-    ReflectionHeight="25"&#13;
-    ReflectionDistance="0"&#13;
-    &#13;
-    EffectsTime="0.5"&#13;
-    EffectCarouselEntry="flytop"&#13;
-    EffectCarouselExit="flytop"&#13;
-    EffectDetailImageEntry="flyleft"&#13;
-    EffectDetailImageExit="flyleft"&#13;
-    EffectContent1Entry="flyleft"&#13;
-    EffectContent1Exit="flyleft"&#13;
-    EffectContent2Entry="flyright"&#13;
-    EffectContent2Exit="flyright"&#13;
-    &#13;
-    HoverGlowEnabled="false"&#13;
-    HoverGlowColor="#ff0000"&#13;
-    HoverGlowAlpha="100"&#13;
-    HoverGlowBlur="32"&#13;
-    HoverGlowStength="2"&#13;
-    HoverGlowQuality="3"&#13;
-    &#13;
-    ToolTipHTML="false"&#13;
-    ToolTipAntiAliasing="false"&#13;
-    ToolTipAlign="left"&#13;
-    ToolTipBold="true"&#13;
-    ToolTipItalic="false"&#13;
-    ToolTipFont="Verdana"&#13;
-    ToolTipFontColor="#ffffff"&#13;
-    ToolTipFontSize="14"&#13;
-    ToolTipLeading="0"&#13;
-    ToolTipUnderline="false"&#13;
-    ToolTipLeft="90"&#13;
-    ToolTipTop="10"&#13;
-    ToolTipWidth="220"&#13;
-    ToolTipHeight="30"&#13;
-    ToolTipBgColor=""&#13;
-    ToolTipBorder="false"&#13;
-    ToolTipBorderColor="#b50000"&#13;
-    ToolTipTopMost="true"&#13;
-    &#13;
-    DetailPageEnabled="false"&#13;
-    DetailImageZoom="100"&#13;
-    DetailImageLeft="20"&#13;
-    DetailImageTop="75"&#13;
-    &#13;
-    Content1HTML="false"&#13;
-    Content1AntiAliasing="false"&#13;
-    Content1Align="left"&#13;
-    Content1Bold="false"&#13;
-    Content1Italic="false"&#13;
-    Content1Font="Verdana"&#13;
-    Content1FontColor="#ffffff"&#13;
-    Content1FontSize="9"&#13;
-    Content1Leading="0"&#13;
-    Content1Underline="false"&#13;
-    Content1Left="38"&#13;
-    Content1Top="50"&#13;
-    Content1Width="120"&#13;
-    Content1Height="25"&#13;
-    Content1TopMost="false"&#13;
-    Content1BgColor=""&#13;
-    Content1Border="false"&#13;
-    Content1BorderColor="#b50000"&#13;
-    &#13;
-    Content2HTML="false"&#13;
-    Content2AntiAliasing="false"&#13;
-    Content2Align="left"&#13;
-    Content2Bold="false"&#13;
-    Content2Italic="false"&#13;
-    Content2Font="Verdana"&#13;
-    Content2FontColor="#dddddd"&#13;
-    Content2FontSize="11"&#13;
-    Content2Leading="0"&#13;
-    Content2Underline="false"&#13;
-    Content2Left="185"&#13;
-    Content2Top="25"&#13;
-    Content2Width="300"&#13;
-    Content2Height="100"&#13;
-    Content2TopMost="false"&#13;
-    Content2BgColor=""&#13;
-    Content2Border="false"&#13;
-    Content2BorderColor="#b50000"  &gt;&#13;
+  &lt;Images&#13; CarouselWidth="600"&#13; CarouselCenterLeft="0"&#13; CarouselCenterTop="-35"&#13; CarouselRandomImages="0"&#13; CarouselRenderQuality="3"&#13; CarouselPreloader=""&#13;
+    &#13; BackGroundVisible="true"&#13; BackGroundPath=""&#13; BackGroundTop="0"&#13; BackGroundLeft="0"&#13;
+    &#13; NavigationType="custom"&#13; NavigationSpeed="15"&#13; NavigationButtonsColor="#ff0000"&#13; NavigationButtonsAlpha="80"&#13; NavigationButtonLeftLeft="260"&#13; NavigationButtonLeftTop="330"&#13; NavigationButtonLeftPath="images/flash/cmdLeft.png?$staticlink$"&#13; NavigationButtonRightLeft="440"&#13; NavigationButtonRightTop="330"&#13; NavigationButtonRightPath="images/flash/cmdRight.png?$staticlink$"&#13;
+    &#13; ReflectionVisible="true"&#13; ReflectionAlpha="30"&#13; ReflectionHeight="25"&#13; ReflectionDistance="0"&#13;
+    &#13; EffectsTime="0.5"&#13; EffectCarouselEntry="flytop"&#13; EffectCarouselExit="flytop"&#13; EffectDetailImageEntry="flyleft"&#13; EffectDetailImageExit="flyleft"&#13; EffectContent1Entry="flyleft"&#13; EffectContent1Exit="flyleft"&#13; EffectContent2Entry="flyright"&#13; EffectContent2Exit="flyright"&#13;
+    &#13; HoverGlowEnabled="false"&#13; HoverGlowColor="#ff0000"&#13; HoverGlowAlpha="100"&#13; HoverGlowBlur="32"&#13; HoverGlowStength="2"&#13; HoverGlowQuality="3"&#13;
+    &#13; ToolTipHTML="false"&#13; ToolTipAntiAliasing="false"&#13; ToolTipAlign="left"&#13; ToolTipBold="true"&#13; ToolTipItalic="false"&#13; ToolTipFont="Verdana"&#13; ToolTipFontColor="#ffffff"&#13; ToolTipFontSize="14"&#13; ToolTipLeading="0"&#13; ToolTipUnderline="false"&#13; ToolTipLeft="90"&#13; ToolTipTop="10"&#13; ToolTipWidth="220"&#13; ToolTipHeight="30"&#13; ToolTipBgColor=""&#13; ToolTipBorder="false"&#13; ToolTipBorderColor="#b50000"&#13; ToolTipTopMost="true"&#13;
+    &#13; DetailPageEnabled="false"&#13; DetailImageZoom="100"&#13; DetailImageLeft="20"&#13; DetailImageTop="75"&#13;
+    &#13; Content1HTML="false"&#13; Content1AntiAliasing="false"&#13; Content1Align="left"&#13; Content1Bold="false"&#13; Content1Italic="false"&#13; Content1Font="Verdana"&#13; Content1FontColor="#ffffff"&#13; Content1FontSize="9"&#13; Content1Leading="0"&#13; Content1Underline="false"&#13; Content1Left="38"&#13; Content1Top="50"&#13; Content1Width="120"&#13; Content1Height="25"&#13; Content1TopMost="false"&#13; Content1BgColor=""&#13; Content1Border="false"&#13; Content1BorderColor="#b50000"&#13;
+    &#13; Content2HTML="false"&#13; Content2AntiAliasing="false"&#13; Content2Align="left"&#13; Content2Bold="false"&#13; Content2Italic="false"&#13; Content2Font="Verdana"&#13; Content2FontColor="#dddddd"&#13; Content2FontSize="11"&#13; Content2Leading="0"&#13; Content2Underline="false"&#13; Content2Left="185"&#13; Content2Top="25"&#13; Content2Width="300"&#13; Content2Height="100"&#13; Content2TopMost="false"&#13; Content2BgColor=""&#13; Content2Border="false"&#13; Content2BorderColor="#b50000"  &gt;&#13;
     &lt;Image&gt;&#13;
       &lt;ImagePath&gt;images/homepage/img01.jpg?$staticlink$&lt;/ImagePath&gt;&#13;
       &lt;ImageLink&gt;$url('Search-Show','cgid','womens-footwear')$&lt;/ImageLink&gt;&#13;
@@ -3856,163 +3622,26 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
     &lt;/Image&gt;  &#13;
   &lt;/Images&gt;&#13;
 &lt;StaticContents&gt;&#13;
-  &lt;StaticContent&#13;
-    HTML="false"&#13;
-    AntiAliasing="false"&#13;
-    Align="left"&#13;
-    Bold="false"&#13;
-    Italic="false"&#13;
-    Font="Verdana"&#13;
-    FontColor="#333333"&#13;
-    FontSize="11"&#13;
-    Leading="0"&#13;
-    Underline="false"&#13;
-    Left="320"&#13;
-    Top="10"&#13;
-    Width="1200"&#13;
-    Height="20"&#13;
-    TopMost="true"&#13;
-    BgColor=""&#13;
-    Border="false"&#13;
-    BorderColor="#b50000"&#13;
-    VisibleOnCarouselPage="true"&#13;
-    VisibleOnDetailPage="false" &gt;&#13;
+  &lt;StaticContent&#13; HTML="false"&#13; AntiAliasing="false"&#13; Align="left"&#13; Bold="false"&#13; Italic="false"&#13; Font="Verdana"&#13; FontColor="#333333"&#13; FontSize="11"&#13; Leading="0"&#13; Underline="false"&#13; Left="320"&#13; Top="10"&#13; Width="1200"&#13; Height="20"&#13; TopMost="true"&#13; BgColor=""&#13; Border="false"&#13; BorderColor="#b50000"&#13; VisibleOnCarouselPage="true"&#13; VisibleOnDetailPage="false" &gt;&#13;
     &lt;Content&gt;&lt;![CDATA[]]&gt;&lt;/Content&gt;&#13;
   &lt;/StaticContent&gt;&#13;
-  &lt;StaticContent&#13;
-    HTML="false" &#13;
-    AntiAliasing="false"&#13;
-    Align="left" &#13;
-    Bold="false" &#13;
-    Italic="false"&#13;
-    Font="Verdana"&#13;
-    FontColor="#333333" &#13;
-    FontSize="11" &#13;
-    Leading="0"  &#13;
-    Underline="false"&#13;
-    Left="320" &#13;
-    Top="220"&#13;
-    Width="1200"&#13;
-    Height="20"&#13;
-    TopMost="true"&#13;
-    BgColor=""&#13;
-    Border="false"&#13;
-    BorderColor="#b50000"&#13;
-    VisibleOnCarouselPage="false"&#13;
-    VisibleOnDetailPage="true" &gt;&#13;
+  &lt;StaticContent&#13; HTML="false" &#13; AntiAliasing="false"&#13; Align="left" &#13; Bold="false" &#13; Italic="false"&#13; Font="Verdana"&#13; FontColor="#333333" &#13; FontSize="11" &#13; Leading="0"  &#13; Underline="false"&#13; Left="320" &#13; Top="220"&#13; Width="1200"&#13; Height="20"&#13; TopMost="true"&#13; BgColor=""&#13; Border="false"&#13; BorderColor="#b50000"&#13; VisibleOnCarouselPage="false"&#13; VisibleOnDetailPage="true" &gt;&#13;
     &lt;Content&gt;&lt;![CDATA[]]&gt;&lt;/Content&gt;&#13;
   &lt;/StaticContent&gt;    &#13;
 &lt;/StaticContents&gt;&#13;
 &lt;/DDDCarouselV2&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;?xml version="1.0" encoding="utf-8" ?&gt;&#13;
 &lt;DDDCarouselV2&gt;&#13;
-  &lt;Images&#13;
-    CarouselWidth="600"&#13;
-    CarouselCenterLeft="0"&#13;
-    CarouselCenterTop="-35"&#13;
-    CarouselRandomImages="0"&#13;
-    CarouselRenderQuality="3"&#13;
-    CarouselPreloader=""&#13;
-    &#13;
-    BackGroundVisible="true"&#13;
-    BackGroundPath=""&#13;
-    BackGroundTop="0"&#13;
-    BackGroundLeft="0"&#13;
-    &#13;
-    NavigationType="custom"&#13;
-    NavigationSpeed="15"&#13;
-    NavigationButtonsColor="#ff0000"&#13;
-    NavigationButtonsAlpha="80"&#13;
-    NavigationButtonLeftLeft="260"&#13;
-    NavigationButtonLeftTop="330"&#13;
-    NavigationButtonLeftPath="images/flash/cmdLeft.png?$staticlink$"&#13;
-    NavigationButtonRightLeft="440"&#13;
-    NavigationButtonRightTop="330"&#13;
-    NavigationButtonRightPath="images/flash/cmdRight.png?$staticlink$"&#13;
-    &#13;
-    ReflectionVisible="true"&#13;
-    ReflectionAlpha="30"&#13;
-    ReflectionHeight="25"&#13;
-    ReflectionDistance="0"&#13;
-    &#13;
-    EffectsTime="0.5"&#13;
-    EffectCarouselEntry="flytop"&#13;
-    EffectCarouselExit="flytop"&#13;
-    EffectDetailImageEntry="flyleft"&#13;
-    EffectDetailImageExit="flyleft"&#13;
-    EffectContent1Entry="flyleft"&#13;
-    EffectContent1Exit="flyleft"&#13;
-    EffectContent2Entry="flyright"&#13;
-    EffectContent2Exit="flyright"&#13;
-    &#13;
-    HoverGlowEnabled="false"&#13;
-    HoverGlowColor="#ff0000"&#13;
-    HoverGlowAlpha="100"&#13;
-    HoverGlowBlur="32"&#13;
-    HoverGlowStength="2"&#13;
-    HoverGlowQuality="3"&#13;
-    &#13;
-    ToolTipHTML="false"&#13;
-    ToolTipAntiAliasing="false"&#13;
-    ToolTipAlign="left"&#13;
-    ToolTipBold="true"&#13;
-    ToolTipItalic="false"&#13;
-    ToolTipFont="Verdana"&#13;
-    ToolTipFontColor="#ffffff"&#13;
-    ToolTipFontSize="14"&#13;
-    ToolTipLeading="0"&#13;
-    ToolTipUnderline="false"&#13;
-    ToolTipLeft="90"&#13;
-    ToolTipTop="10"&#13;
-    ToolTipWidth="220"&#13;
-    ToolTipHeight="30"&#13;
-    ToolTipBgColor=""&#13;
-    ToolTipBorder="false"&#13;
-    ToolTipBorderColor="#b50000"&#13;
-    ToolTipTopMost="true"&#13;
-    &#13;
-    DetailPageEnabled="false"&#13;
-    DetailImageZoom="100"&#13;
-    DetailImageLeft="20"&#13;
-    DetailImageTop="75"&#13;
-    &#13;
-    Content1HTML="false"&#13;
-    Content1AntiAliasing="false"&#13;
-    Content1Align="left"&#13;
-    Content1Bold="false"&#13;
-    Content1Italic="false"&#13;
-    Content1Font="Verdana"&#13;
-    Content1FontColor="#ffffff"&#13;
-    Content1FontSize="9"&#13;
-    Content1Leading="0"&#13;
-    Content1Underline="false"&#13;
-    Content1Left="38"&#13;
-    Content1Top="50"&#13;
-    Content1Width="120"&#13;
-    Content1Height="25"&#13;
-    Content1TopMost="false"&#13;
-    Content1BgColor=""&#13;
-    Content1Border="false"&#13;
-    Content1BorderColor="#b50000"&#13;
-    &#13;
-    Content2HTML="false"&#13;
-    Content2AntiAliasing="false"&#13;
-    Content2Align="left"&#13;
-    Content2Bold="false"&#13;
-    Content2Italic="false"&#13;
-    Content2Font="Verdana"&#13;
-    Content2FontColor="#dddddd"&#13;
-    Content2FontSize="11"&#13;
-    Content2Leading="0"&#13;
-    Content2Underline="false"&#13;
-    Content2Left="185"&#13;
-    Content2Top="25"&#13;
-    Content2Width="300"&#13;
-    Content2Height="100"&#13;
-    Content2TopMost="false"&#13;
-    Content2BgColor=""&#13;
-    Content2Border="false"&#13;
-    Content2BorderColor="#b50000"  &gt;&#13;
+  &lt;Images&#13; CarouselWidth="600"&#13; CarouselCenterLeft="0"&#13; CarouselCenterTop="-35"&#13; CarouselRandomImages="0"&#13; CarouselRenderQuality="3"&#13; CarouselPreloader=""&#13;
+    &#13; BackGroundVisible="true"&#13; BackGroundPath=""&#13; BackGroundTop="0"&#13; BackGroundLeft="0"&#13;
+    &#13; NavigationType="custom"&#13; NavigationSpeed="15"&#13; NavigationButtonsColor="#ff0000"&#13; NavigationButtonsAlpha="80"&#13; NavigationButtonLeftLeft="260"&#13; NavigationButtonLeftTop="330"&#13; NavigationButtonLeftPath="images/flash/cmdLeft.png?$staticlink$"&#13; NavigationButtonRightLeft="440"&#13; NavigationButtonRightTop="330"&#13; NavigationButtonRightPath="images/flash/cmdRight.png?$staticlink$"&#13;
+    &#13; ReflectionVisible="true"&#13; ReflectionAlpha="30"&#13; ReflectionHeight="25"&#13; ReflectionDistance="0"&#13;
+    &#13; EffectsTime="0.5"&#13; EffectCarouselEntry="flytop"&#13; EffectCarouselExit="flytop"&#13; EffectDetailImageEntry="flyleft"&#13; EffectDetailImageExit="flyleft"&#13; EffectContent1Entry="flyleft"&#13; EffectContent1Exit="flyleft"&#13; EffectContent2Entry="flyright"&#13; EffectContent2Exit="flyright"&#13;
+    &#13; HoverGlowEnabled="false"&#13; HoverGlowColor="#ff0000"&#13; HoverGlowAlpha="100"&#13; HoverGlowBlur="32"&#13; HoverGlowStength="2"&#13; HoverGlowQuality="3"&#13;
+    &#13; ToolTipHTML="false"&#13; ToolTipAntiAliasing="false"&#13; ToolTipAlign="left"&#13; ToolTipBold="true"&#13; ToolTipItalic="false"&#13; ToolTipFont="Verdana"&#13; ToolTipFontColor="#ffffff"&#13; ToolTipFontSize="14"&#13; ToolTipLeading="0"&#13; ToolTipUnderline="false"&#13; ToolTipLeft="90"&#13; ToolTipTop="10"&#13; ToolTipWidth="220"&#13; ToolTipHeight="30"&#13; ToolTipBgColor=""&#13; ToolTipBorder="false"&#13; ToolTipBorderColor="#b50000"&#13; ToolTipTopMost="true"&#13;
+    &#13; DetailPageEnabled="false"&#13; DetailImageZoom="100"&#13; DetailImageLeft="20"&#13; DetailImageTop="75"&#13;
+    &#13; Content1HTML="false"&#13; Content1AntiAliasing="false"&#13; Content1Align="left"&#13; Content1Bold="false"&#13; Content1Italic="false"&#13; Content1Font="Verdana"&#13; Content1FontColor="#ffffff"&#13; Content1FontSize="9"&#13; Content1Leading="0"&#13; Content1Underline="false"&#13; Content1Left="38"&#13; Content1Top="50"&#13; Content1Width="120"&#13; Content1Height="25"&#13; Content1TopMost="false"&#13; Content1BgColor=""&#13; Content1Border="false"&#13; Content1BorderColor="#b50000"&#13;
+    &#13; Content2HTML="false"&#13; Content2AntiAliasing="false"&#13; Content2Align="left"&#13; Content2Bold="false"&#13; Content2Italic="false"&#13; Content2Font="Verdana"&#13; Content2FontColor="#dddddd"&#13; Content2FontSize="11"&#13; Content2Leading="0"&#13; Content2Underline="false"&#13; Content2Left="185"&#13; Content2Top="25"&#13; Content2Width="300"&#13; Content2Height="100"&#13; Content2TopMost="false"&#13; Content2BgColor=""&#13; Content2Border="false"&#13; Content2BorderColor="#b50000"  &gt;&#13;
     &lt;Image&gt;&#13;
       &lt;ImagePath&gt;images/homepage/img01.jpg?$staticlink$&lt;/ImagePath&gt;&#13;
       &lt;ImageLink&gt;$url('Search-Show','cgid','womens-footwear')$&lt;/ImageLink&gt;&#13;
@@ -4069,163 +3698,26 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
     &lt;/Image&gt;  &#13;
   &lt;/Images&gt;&#13;
 &lt;StaticContents&gt;&#13;
-  &lt;StaticContent&#13;
-    HTML="false"&#13;
-    AntiAliasing="false"&#13;
-    Align="left"&#13;
-    Bold="false"&#13;
-    Italic="false"&#13;
-    Font="Verdana"&#13;
-    FontColor="#333333"&#13;
-    FontSize="11"&#13;
-    Leading="0"&#13;
-    Underline="false"&#13;
-    Left="320"&#13;
-    Top="10"&#13;
-    Width="1200"&#13;
-    Height="20"&#13;
-    TopMost="true"&#13;
-    BgColor=""&#13;
-    Border="false"&#13;
-    BorderColor="#b50000"&#13;
-    VisibleOnCarouselPage="true"&#13;
-    VisibleOnDetailPage="false" &gt;&#13;
+  &lt;StaticContent&#13; HTML="false"&#13; AntiAliasing="false"&#13; Align="left"&#13; Bold="false"&#13; Italic="false"&#13; Font="Verdana"&#13; FontColor="#333333"&#13; FontSize="11"&#13; Leading="0"&#13; Underline="false"&#13; Left="320"&#13; Top="10"&#13; Width="1200"&#13; Height="20"&#13; TopMost="true"&#13; BgColor=""&#13; Border="false"&#13; BorderColor="#b50000"&#13; VisibleOnCarouselPage="true"&#13; VisibleOnDetailPage="false" &gt;&#13;
     &lt;Content&gt;&lt;![CDATA[]]&gt;&lt;/Content&gt;&#13;
   &lt;/StaticContent&gt;&#13;
-  &lt;StaticContent&#13;
-    HTML="false" &#13;
-    AntiAliasing="false"&#13;
-    Align="left" &#13;
-    Bold="false" &#13;
-    Italic="false"&#13;
-    Font="Verdana"&#13;
-    FontColor="#333333" &#13;
-    FontSize="11" &#13;
-    Leading="0"  &#13;
-    Underline="false"&#13;
-    Left="320" &#13;
-    Top="220"&#13;
-    Width="1200"&#13;
-    Height="20"&#13;
-    TopMost="true"&#13;
-    BgColor=""&#13;
-    Border="false"&#13;
-    BorderColor="#b50000"&#13;
-    VisibleOnCarouselPage="false"&#13;
-    VisibleOnDetailPage="true" &gt;&#13;
+  &lt;StaticContent&#13; HTML="false" &#13; AntiAliasing="false"&#13; Align="left" &#13; Bold="false" &#13; Italic="false"&#13; Font="Verdana"&#13; FontColor="#333333" &#13; FontSize="11" &#13; Leading="0"  &#13; Underline="false"&#13; Left="320" &#13; Top="220"&#13; Width="1200"&#13; Height="20"&#13; TopMost="true"&#13; BgColor=""&#13; Border="false"&#13; BorderColor="#b50000"&#13; VisibleOnCarouselPage="false"&#13; VisibleOnDetailPage="true" &gt;&#13;
     &lt;Content&gt;&lt;![CDATA[]]&gt;&lt;/Content&gt;&#13;
   &lt;/StaticContent&gt;    &#13;
 &lt;/StaticContents&gt;&#13;
 &lt;/DDDCarouselV2&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;?xml version="1.0" encoding="utf-8" ?&gt;&#13;
 &lt;DDDCarouselV2&gt;&#13;
-  &lt;Images&#13;
-    CarouselWidth="600"&#13;
-    CarouselCenterLeft="0"&#13;
-    CarouselCenterTop="-35"&#13;
-    CarouselRandomImages="0"&#13;
-    CarouselRenderQuality="3"&#13;
-    CarouselPreloader=""&#13;
-    &#13;
-    BackGroundVisible="true"&#13;
-    BackGroundPath=""&#13;
-    BackGroundTop="0"&#13;
-    BackGroundLeft="0"&#13;
-    &#13;
-    NavigationType="custom"&#13;
-    NavigationSpeed="15"&#13;
-    NavigationButtonsColor="#ff0000"&#13;
-    NavigationButtonsAlpha="80"&#13;
-    NavigationButtonLeftLeft="260"&#13;
-    NavigationButtonLeftTop="330"&#13;
-    NavigationButtonLeftPath="images/flash/cmdLeft.png?$staticlink$"&#13;
-    NavigationButtonRightLeft="440"&#13;
-    NavigationButtonRightTop="330"&#13;
-    NavigationButtonRightPath="images/flash/cmdRight.png?$staticlink$"&#13;
-    &#13;
-    ReflectionVisible="true"&#13;
-    ReflectionAlpha="30"&#13;
-    ReflectionHeight="25"&#13;
-    ReflectionDistance="0"&#13;
-    &#13;
-    EffectsTime="0.5"&#13;
-    EffectCarouselEntry="flytop"&#13;
-    EffectCarouselExit="flytop"&#13;
-    EffectDetailImageEntry="flyleft"&#13;
-    EffectDetailImageExit="flyleft"&#13;
-    EffectContent1Entry="flyleft"&#13;
-    EffectContent1Exit="flyleft"&#13;
-    EffectContent2Entry="flyright"&#13;
-    EffectContent2Exit="flyright"&#13;
-    &#13;
-    HoverGlowEnabled="false"&#13;
-    HoverGlowColor="#ff0000"&#13;
-    HoverGlowAlpha="100"&#13;
-    HoverGlowBlur="32"&#13;
-    HoverGlowStength="2"&#13;
-    HoverGlowQuality="3"&#13;
-    &#13;
-    ToolTipHTML="false"&#13;
-    ToolTipAntiAliasing="false"&#13;
-    ToolTipAlign="left"&#13;
-    ToolTipBold="true"&#13;
-    ToolTipItalic="false"&#13;
-    ToolTipFont="Verdana"&#13;
-    ToolTipFontColor="#ffffff"&#13;
-    ToolTipFontSize="14"&#13;
-    ToolTipLeading="0"&#13;
-    ToolTipUnderline="false"&#13;
-    ToolTipLeft="90"&#13;
-    ToolTipTop="10"&#13;
-    ToolTipWidth="220"&#13;
-    ToolTipHeight="30"&#13;
-    ToolTipBgColor=""&#13;
-    ToolTipBorder="false"&#13;
-    ToolTipBorderColor="#b50000"&#13;
-    ToolTipTopMost="true"&#13;
-    &#13;
-    DetailPageEnabled="false"&#13;
-    DetailImageZoom="100"&#13;
-    DetailImageLeft="20"&#13;
-    DetailImageTop="75"&#13;
-    &#13;
-    Content1HTML="false"&#13;
-    Content1AntiAliasing="false"&#13;
-    Content1Align="left"&#13;
-    Content1Bold="false"&#13;
-    Content1Italic="false"&#13;
-    Content1Font="Verdana"&#13;
-    Content1FontColor="#ffffff"&#13;
-    Content1FontSize="9"&#13;
-    Content1Leading="0"&#13;
-    Content1Underline="false"&#13;
-    Content1Left="38"&#13;
-    Content1Top="50"&#13;
-    Content1Width="120"&#13;
-    Content1Height="25"&#13;
-    Content1TopMost="false"&#13;
-    Content1BgColor=""&#13;
-    Content1Border="false"&#13;
-    Content1BorderColor="#b50000"&#13;
-    &#13;
-    Content2HTML="false"&#13;
-    Content2AntiAliasing="false"&#13;
-    Content2Align="left"&#13;
-    Content2Bold="false"&#13;
-    Content2Italic="false"&#13;
-    Content2Font="Verdana"&#13;
-    Content2FontColor="#dddddd"&#13;
-    Content2FontSize="11"&#13;
-    Content2Leading="0"&#13;
-    Content2Underline="false"&#13;
-    Content2Left="185"&#13;
-    Content2Top="25"&#13;
-    Content2Width="300"&#13;
-    Content2Height="100"&#13;
-    Content2TopMost="false"&#13;
-    Content2BgColor=""&#13;
-    Content2Border="false"&#13;
-    Content2BorderColor="#b50000"  &gt;&#13;
+  &lt;Images&#13; CarouselWidth="600"&#13; CarouselCenterLeft="0"&#13; CarouselCenterTop="-35"&#13; CarouselRandomImages="0"&#13; CarouselRenderQuality="3"&#13; CarouselPreloader=""&#13;
+    &#13; BackGroundVisible="true"&#13; BackGroundPath=""&#13; BackGroundTop="0"&#13; BackGroundLeft="0"&#13;
+    &#13; NavigationType="custom"&#13; NavigationSpeed="15"&#13; NavigationButtonsColor="#ff0000"&#13; NavigationButtonsAlpha="80"&#13; NavigationButtonLeftLeft="260"&#13; NavigationButtonLeftTop="330"&#13; NavigationButtonLeftPath="images/flash/cmdLeft.png?$staticlink$"&#13; NavigationButtonRightLeft="440"&#13; NavigationButtonRightTop="330"&#13; NavigationButtonRightPath="images/flash/cmdRight.png?$staticlink$"&#13;
+    &#13; ReflectionVisible="true"&#13; ReflectionAlpha="30"&#13; ReflectionHeight="25"&#13; ReflectionDistance="0"&#13;
+    &#13; EffectsTime="0.5"&#13; EffectCarouselEntry="flytop"&#13; EffectCarouselExit="flytop"&#13; EffectDetailImageEntry="flyleft"&#13; EffectDetailImageExit="flyleft"&#13; EffectContent1Entry="flyleft"&#13; EffectContent1Exit="flyleft"&#13; EffectContent2Entry="flyright"&#13; EffectContent2Exit="flyright"&#13;
+    &#13; HoverGlowEnabled="false"&#13; HoverGlowColor="#ff0000"&#13; HoverGlowAlpha="100"&#13; HoverGlowBlur="32"&#13; HoverGlowStength="2"&#13; HoverGlowQuality="3"&#13;
+    &#13; ToolTipHTML="false"&#13; ToolTipAntiAliasing="false"&#13; ToolTipAlign="left"&#13; ToolTipBold="true"&#13; ToolTipItalic="false"&#13; ToolTipFont="Verdana"&#13; ToolTipFontColor="#ffffff"&#13; ToolTipFontSize="14"&#13; ToolTipLeading="0"&#13; ToolTipUnderline="false"&#13; ToolTipLeft="90"&#13; ToolTipTop="10"&#13; ToolTipWidth="220"&#13; ToolTipHeight="30"&#13; ToolTipBgColor=""&#13; ToolTipBorder="false"&#13; ToolTipBorderColor="#b50000"&#13; ToolTipTopMost="true"&#13;
+    &#13; DetailPageEnabled="false"&#13; DetailImageZoom="100"&#13; DetailImageLeft="20"&#13; DetailImageTop="75"&#13;
+    &#13; Content1HTML="false"&#13; Content1AntiAliasing="false"&#13; Content1Align="left"&#13; Content1Bold="false"&#13; Content1Italic="false"&#13; Content1Font="Verdana"&#13; Content1FontColor="#ffffff"&#13; Content1FontSize="9"&#13; Content1Leading="0"&#13; Content1Underline="false"&#13; Content1Left="38"&#13; Content1Top="50"&#13; Content1Width="120"&#13; Content1Height="25"&#13; Content1TopMost="false"&#13; Content1BgColor=""&#13; Content1Border="false"&#13; Content1BorderColor="#b50000"&#13;
+    &#13; Content2HTML="false"&#13; Content2AntiAliasing="false"&#13; Content2Align="left"&#13; Content2Bold="false"&#13; Content2Italic="false"&#13; Content2Font="Verdana"&#13; Content2FontColor="#dddddd"&#13; Content2FontSize="11"&#13; Content2Leading="0"&#13; Content2Underline="false"&#13; Content2Left="185"&#13; Content2Top="25"&#13; Content2Width="300"&#13; Content2Height="100"&#13; Content2TopMost="false"&#13; Content2BgColor=""&#13; Content2Border="false"&#13; Content2BorderColor="#b50000"  &gt;&#13;
     &lt;Image&gt;&#13;
       &lt;ImagePath&gt;images/homepage/img01.jpg?$staticlink$&lt;/ImagePath&gt;&#13;
       &lt;ImageLink&gt;$url('Search-Show','cgid','womens-footwear')$&lt;/ImageLink&gt;&#13;
@@ -4282,163 +3774,26 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
     &lt;/Image&gt;  &#13;
   &lt;/Images&gt;&#13;
 &lt;StaticContents&gt;&#13;
-  &lt;StaticContent&#13;
-    HTML="false"&#13;
-    AntiAliasing="false"&#13;
-    Align="left"&#13;
-    Bold="false"&#13;
-    Italic="false"&#13;
-    Font="Verdana"&#13;
-    FontColor="#333333"&#13;
-    FontSize="11"&#13;
-    Leading="0"&#13;
-    Underline="false"&#13;
-    Left="320"&#13;
-    Top="10"&#13;
-    Width="1200"&#13;
-    Height="20"&#13;
-    TopMost="true"&#13;
-    BgColor=""&#13;
-    Border="false"&#13;
-    BorderColor="#b50000"&#13;
-    VisibleOnCarouselPage="true"&#13;
-    VisibleOnDetailPage="false" &gt;&#13;
+  &lt;StaticContent&#13; HTML="false"&#13; AntiAliasing="false"&#13; Align="left"&#13; Bold="false"&#13; Italic="false"&#13; Font="Verdana"&#13; FontColor="#333333"&#13; FontSize="11"&#13; Leading="0"&#13; Underline="false"&#13; Left="320"&#13; Top="10"&#13; Width="1200"&#13; Height="20"&#13; TopMost="true"&#13; BgColor=""&#13; Border="false"&#13; BorderColor="#b50000"&#13; VisibleOnCarouselPage="true"&#13; VisibleOnDetailPage="false" &gt;&#13;
     &lt;Content&gt;&lt;![CDATA[]]&gt;&lt;/Content&gt;&#13;
   &lt;/StaticContent&gt;&#13;
-  &lt;StaticContent&#13;
-    HTML="false" &#13;
-    AntiAliasing="false"&#13;
-    Align="left" &#13;
-    Bold="false" &#13;
-    Italic="false"&#13;
-    Font="Verdana"&#13;
-    FontColor="#333333" &#13;
-    FontSize="11" &#13;
-    Leading="0"  &#13;
-    Underline="false"&#13;
-    Left="320" &#13;
-    Top="220"&#13;
-    Width="1200"&#13;
-    Height="20"&#13;
-    TopMost="true"&#13;
-    BgColor=""&#13;
-    Border="false"&#13;
-    BorderColor="#b50000"&#13;
-    VisibleOnCarouselPage="false"&#13;
-    VisibleOnDetailPage="true" &gt;&#13;
+  &lt;StaticContent&#13; HTML="false" &#13; AntiAliasing="false"&#13; Align="left" &#13; Bold="false" &#13; Italic="false"&#13; Font="Verdana"&#13; FontColor="#333333" &#13; FontSize="11" &#13; Leading="0"  &#13; Underline="false"&#13; Left="320" &#13; Top="220"&#13; Width="1200"&#13; Height="20"&#13; TopMost="true"&#13; BgColor=""&#13; Border="false"&#13; BorderColor="#b50000"&#13; VisibleOnCarouselPage="false"&#13; VisibleOnDetailPage="true" &gt;&#13;
     &lt;Content&gt;&lt;![CDATA[]]&gt;&lt;/Content&gt;&#13;
   &lt;/StaticContent&gt;    &#13;
 &lt;/StaticContents&gt;&#13;
 &lt;/DDDCarouselV2&gt;</custom-attribute>
             <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;?xml version="1.0" encoding="utf-8" ?&gt;&#13;
 &lt;DDDCarouselV2&gt;&#13;
-  &lt;Images&#13;
-    CarouselWidth="600"&#13;
-    CarouselCenterLeft="0"&#13;
-    CarouselCenterTop="-35"&#13;
-    CarouselRandomImages="0"&#13;
-    CarouselRenderQuality="3"&#13;
-    CarouselPreloader=""&#13;
-    &#13;
-    BackGroundVisible="true"&#13;
-    BackGroundPath=""&#13;
-    BackGroundTop="0"&#13;
-    BackGroundLeft="0"&#13;
-    &#13;
-    NavigationType="custom"&#13;
-    NavigationSpeed="15"&#13;
-    NavigationButtonsColor="#ff0000"&#13;
-    NavigationButtonsAlpha="80"&#13;
-    NavigationButtonLeftLeft="260"&#13;
-    NavigationButtonLeftTop="330"&#13;
-    NavigationButtonLeftPath="images/flash/cmdLeft.png?$staticlink$"&#13;
-    NavigationButtonRightLeft="440"&#13;
-    NavigationButtonRightTop="330"&#13;
-    NavigationButtonRightPath="images/flash/cmdRight.png?$staticlink$"&#13;
-    &#13;
-    ReflectionVisible="true"&#13;
-    ReflectionAlpha="30"&#13;
-    ReflectionHeight="25"&#13;
-    ReflectionDistance="0"&#13;
-    &#13;
-    EffectsTime="0.5"&#13;
-    EffectCarouselEntry="flytop"&#13;
-    EffectCarouselExit="flytop"&#13;
-    EffectDetailImageEntry="flyleft"&#13;
-    EffectDetailImageExit="flyleft"&#13;
-    EffectContent1Entry="flyleft"&#13;
-    EffectContent1Exit="flyleft"&#13;
-    EffectContent2Entry="flyright"&#13;
-    EffectContent2Exit="flyright"&#13;
-    &#13;
-    HoverGlowEnabled="false"&#13;
-    HoverGlowColor="#ff0000"&#13;
-    HoverGlowAlpha="100"&#13;
-    HoverGlowBlur="32"&#13;
-    HoverGlowStength="2"&#13;
-    HoverGlowQuality="3"&#13;
-    &#13;
-    ToolTipHTML="false"&#13;
-    ToolTipAntiAliasing="false"&#13;
-    ToolTipAlign="left"&#13;
-    ToolTipBold="true"&#13;
-    ToolTipItalic="false"&#13;
-    ToolTipFont="Verdana"&#13;
-    ToolTipFontColor="#ffffff"&#13;
-    ToolTipFontSize="14"&#13;
-    ToolTipLeading="0"&#13;
-    ToolTipUnderline="false"&#13;
-    ToolTipLeft="90"&#13;
-    ToolTipTop="10"&#13;
-    ToolTipWidth="220"&#13;
-    ToolTipHeight="30"&#13;
-    ToolTipBgColor=""&#13;
-    ToolTipBorder="false"&#13;
-    ToolTipBorderColor="#b50000"&#13;
-    ToolTipTopMost="true"&#13;
-    &#13;
-    DetailPageEnabled="false"&#13;
-    DetailImageZoom="100"&#13;
-    DetailImageLeft="20"&#13;
-    DetailImageTop="75"&#13;
-    &#13;
-    Content1HTML="false"&#13;
-    Content1AntiAliasing="false"&#13;
-    Content1Align="left"&#13;
-    Content1Bold="false"&#13;
-    Content1Italic="false"&#13;
-    Content1Font="Verdana"&#13;
-    Content1FontColor="#ffffff"&#13;
-    Content1FontSize="9"&#13;
-    Content1Leading="0"&#13;
-    Content1Underline="false"&#13;
-    Content1Left="38"&#13;
-    Content1Top="50"&#13;
-    Content1Width="120"&#13;
-    Content1Height="25"&#13;
-    Content1TopMost="false"&#13;
-    Content1BgColor=""&#13;
-    Content1Border="false"&#13;
-    Content1BorderColor="#b50000"&#13;
-    &#13;
-    Content2HTML="false"&#13;
-    Content2AntiAliasing="false"&#13;
-    Content2Align="left"&#13;
-    Content2Bold="false"&#13;
-    Content2Italic="false"&#13;
-    Content2Font="Verdana"&#13;
-    Content2FontColor="#dddddd"&#13;
-    Content2FontSize="11"&#13;
-    Content2Leading="0"&#13;
-    Content2Underline="false"&#13;
-    Content2Left="185"&#13;
-    Content2Top="25"&#13;
-    Content2Width="300"&#13;
-    Content2Height="100"&#13;
-    Content2TopMost="false"&#13;
-    Content2BgColor=""&#13;
-    Content2Border="false"&#13;
-    Content2BorderColor="#b50000"  &gt;&#13;
+  &lt;Images&#13; CarouselWidth="600"&#13; CarouselCenterLeft="0"&#13; CarouselCenterTop="-35"&#13; CarouselRandomImages="0"&#13; CarouselRenderQuality="3"&#13; CarouselPreloader=""&#13;
+    &#13; BackGroundVisible="true"&#13; BackGroundPath=""&#13; BackGroundTop="0"&#13; BackGroundLeft="0"&#13;
+    &#13; NavigationType="custom"&#13; NavigationSpeed="15"&#13; NavigationButtonsColor="#ff0000"&#13; NavigationButtonsAlpha="80"&#13; NavigationButtonLeftLeft="260"&#13; NavigationButtonLeftTop="330"&#13; NavigationButtonLeftPath="images/flash/cmdLeft.png?$staticlink$"&#13; NavigationButtonRightLeft="440"&#13; NavigationButtonRightTop="330"&#13; NavigationButtonRightPath="images/flash/cmdRight.png?$staticlink$"&#13;
+    &#13; ReflectionVisible="true"&#13; ReflectionAlpha="30"&#13; ReflectionHeight="25"&#13; ReflectionDistance="0"&#13;
+    &#13; EffectsTime="0.5"&#13; EffectCarouselEntry="flytop"&#13; EffectCarouselExit="flytop"&#13; EffectDetailImageEntry="flyleft"&#13; EffectDetailImageExit="flyleft"&#13; EffectContent1Entry="flyleft"&#13; EffectContent1Exit="flyleft"&#13; EffectContent2Entry="flyright"&#13; EffectContent2Exit="flyright"&#13;
+    &#13; HoverGlowEnabled="false"&#13; HoverGlowColor="#ff0000"&#13; HoverGlowAlpha="100"&#13; HoverGlowBlur="32"&#13; HoverGlowStength="2"&#13; HoverGlowQuality="3"&#13;
+    &#13; ToolTipHTML="false"&#13; ToolTipAntiAliasing="false"&#13; ToolTipAlign="left"&#13; ToolTipBold="true"&#13; ToolTipItalic="false"&#13; ToolTipFont="Verdana"&#13; ToolTipFontColor="#ffffff"&#13; ToolTipFontSize="14"&#13; ToolTipLeading="0"&#13; ToolTipUnderline="false"&#13; ToolTipLeft="90"&#13; ToolTipTop="10"&#13; ToolTipWidth="220"&#13; ToolTipHeight="30"&#13; ToolTipBgColor=""&#13; ToolTipBorder="false"&#13; ToolTipBorderColor="#b50000"&#13; ToolTipTopMost="true"&#13;
+    &#13; DetailPageEnabled="false"&#13; DetailImageZoom="100"&#13; DetailImageLeft="20"&#13; DetailImageTop="75"&#13;
+    &#13; Content1HTML="false"&#13; Content1AntiAliasing="false"&#13; Content1Align="left"&#13; Content1Bold="false"&#13; Content1Italic="false"&#13; Content1Font="Verdana"&#13; Content1FontColor="#ffffff"&#13; Content1FontSize="9"&#13; Content1Leading="0"&#13; Content1Underline="false"&#13; Content1Left="38"&#13; Content1Top="50"&#13; Content1Width="120"&#13; Content1Height="25"&#13; Content1TopMost="false"&#13; Content1BgColor=""&#13; Content1Border="false"&#13; Content1BorderColor="#b50000"&#13;
+    &#13; Content2HTML="false"&#13; Content2AntiAliasing="false"&#13; Content2Align="left"&#13; Content2Bold="false"&#13; Content2Italic="false"&#13; Content2Font="Verdana"&#13; Content2FontColor="#dddddd"&#13; Content2FontSize="11"&#13; Content2Leading="0"&#13; Content2Underline="false"&#13; Content2Left="185"&#13; Content2Top="25"&#13; Content2Width="300"&#13; Content2Height="100"&#13; Content2TopMost="false"&#13; Content2BgColor=""&#13; Content2Border="false"&#13; Content2BorderColor="#b50000"  &gt;&#13;
     &lt;Image&gt;&#13;
       &lt;ImagePath&gt;images/homepage/img01.jpg?$staticlink$&lt;/ImagePath&gt;&#13;
       &lt;ImageLink&gt;$url('Search-Show','cgid','womens-footwear')$&lt;/ImageLink&gt;&#13;
@@ -4495,50 +3850,10 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
     &lt;/Image&gt;  &#13;
   &lt;/Images&gt;&#13;
 &lt;StaticContents&gt;&#13;
-  &lt;StaticContent&#13;
-    HTML="false"&#13;
-    AntiAliasing="false"&#13;
-    Align="left"&#13;
-    Bold="false"&#13;
-    Italic="false"&#13;
-    Font="Verdana"&#13;
-    FontColor="#333333"&#13;
-    FontSize="11"&#13;
-    Leading="0"&#13;
-    Underline="false"&#13;
-    Left="320"&#13;
-    Top="10"&#13;
-    Width="1200"&#13;
-    Height="20"&#13;
-    TopMost="true"&#13;
-    BgColor=""&#13;
-    Border="false"&#13;
-    BorderColor="#b50000"&#13;
-    VisibleOnCarouselPage="true"&#13;
-    VisibleOnDetailPage="false" &gt;&#13;
+  &lt;StaticContent&#13; HTML="false"&#13; AntiAliasing="false"&#13; Align="left"&#13; Bold="false"&#13; Italic="false"&#13; Font="Verdana"&#13; FontColor="#333333"&#13; FontSize="11"&#13; Leading="0"&#13; Underline="false"&#13; Left="320"&#13; Top="10"&#13; Width="1200"&#13; Height="20"&#13; TopMost="true"&#13; BgColor=""&#13; Border="false"&#13; BorderColor="#b50000"&#13; VisibleOnCarouselPage="true"&#13; VisibleOnDetailPage="false" &gt;&#13;
     &lt;Content&gt;&lt;![CDATA[]]&gt;&lt;/Content&gt;&#13;
   &lt;/StaticContent&gt;&#13;
-  &lt;StaticContent&#13;
-    HTML="false" &#13;
-    AntiAliasing="false"&#13;
-    Align="left" &#13;
-    Bold="false" &#13;
-    Italic="false"&#13;
-    Font="Verdana"&#13;
-    FontColor="#333333" &#13;
-    FontSize="11" &#13;
-    Leading="0"  &#13;
-    Underline="false"&#13;
-    Left="320" &#13;
-    Top="220"&#13;
-    Width="1200"&#13;
-    Height="20"&#13;
-    TopMost="true"&#13;
-    BgColor=""&#13;
-    Border="false"&#13;
-    BorderColor="#b50000"&#13;
-    VisibleOnCarouselPage="false"&#13;
-    VisibleOnDetailPage="true" &gt;&#13;
+  &lt;StaticContent&#13; HTML="false" &#13; AntiAliasing="false"&#13; Align="left" &#13; Bold="false" &#13; Italic="false"&#13; Font="Verdana"&#13; FontColor="#333333" &#13; FontSize="11" &#13; Leading="0"  &#13; Underline="false"&#13; Left="320" &#13; Top="220"&#13; Width="1200"&#13; Height="20"&#13; TopMost="true"&#13; BgColor=""&#13; Border="false"&#13; BorderColor="#b50000"&#13; VisibleOnCarouselPage="false"&#13; VisibleOnDetailPage="true" &gt;&#13;
     &lt;Content&gt;&lt;![CDATA[]]&gt;&lt;/Content&gt;&#13;
   &lt;/StaticContent&gt;    &#13;
 &lt;/StaticContents&gt;&#13;
@@ -6145,98 +5460,40 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
 
     <content content-id="footer-about">
         <display-name xml:lang="x-default">Footer About Links</display-name>
+        <display-name xml:lang="zh-CN">页脚关于链接</display-name>
         <display-name xml:lang="fr-FR">Liens À propos en pied de page</display-name>
         <display-name xml:lang="it-IT">Link Informazioni su a piè di pagina </display-name>
         <display-name xml:lang="ja-JP">フッターの企業情報リンク</display-name>
-        <display-name xml:lang="zh-CN">页脚关于链接</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
-        <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-about"&gt;About&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;About&lt;/h2&gt;&lt;/div&gt;&#13;
-                &lt;ul id="collapsible-about"class="menu-footer content"&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'about-us')$" title="Go to About Us"&gt;About Us&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="Go to Privacy"&gt;Privacy&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'terms')$" title="Go to Terms"&gt;Terms&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'jobs-landing')$" title="Go to Jobs"&gt;Jobs&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-customer-service"&gt;À propos&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;À propos&lt;/h2&gt;&lt;/div&gt;&#13;
-                &lt;ul id="collapsible-about"class="menu-footer content"&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'about-us')$" title="Aller à À propos de nous"&gt;À propos de nous&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="Aller à Déclaration de confidentialité"&gt;Confidentialité&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'terms')$" title="Aller à Conditions générales"&gt;Conditions générales&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'jobs-landing')$" title="Aller à Carrières"&gt;Carrières&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-customer-service"&gt;Informazioni su&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;Informazioni su&lt;/h2&gt;&lt;/div&gt;&#13;
-                &lt;ul id="collapsible-about"class="menu-footer content"&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'about-us')$" title="Vai a Chi siamo"&gt;Chi siamo&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="Vai a Privacy"&gt;Privacy&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'terms')$" title="Vai a Termini"&gt;Termini&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'jobs-landing')$" title="Vai a Lavora con noi"&gt;Lavora con noi&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-customer-service"&gt;企業情報&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;企業情報&lt;/h2&gt;&lt;/div&gt;&#13;
-                &lt;ul id="collapsible-about"class="menu-footer content"&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'about-us')$" title="「Salesforce について」に移動する"&gt;Salesforce について&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="「プライバシー」に移動する"&gt;プライバシー&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'terms')$" title="「利用条件」に移動する"&gt;利用条件&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'jobs-landing')$" title="「採用情報」に移動する"&gt;採用情報&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-customer-service"&gt;关于&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;关于&lt;/h2&gt;&lt;/div&gt;&#13;
-                &lt;ul id="collapsible-about"class="menu-footer content"&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'about-us')$" title="前往关于我们"&gt;关于我们&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'privacy-policy')$" title="前往隐私"&gt;隐私政策&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'terms')$" title="前往条款"&gt;条款&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$url('Page-Show', 'cid', 'jobs-landing')$" title="前往招聘"&gt;招聘&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div&gt;&lt;button aria-controls=&quot;collapsible-about&quot; aria-expanded=&quot;false&quot; class=&quot;title btn text-left btn-block d-sm-none&quot;&gt;About&lt;/button&gt;&#13;&lt;h2 class=&quot;title d-none d-sm-block&quot;&gt;About&lt;/h2&gt;&#13;&lt;/div&gt;&#13;&lt;ul class=&quot;menu-footer content&quot; id=&quot;collapsible-about&quot;&gt;&#13;	&lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'about-us')$&quot; title=&quot;Go to About Us&quot;&gt;About Us&lt;/a&gt;&lt;/li&gt;&#13;	&lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'privacy-policy')$&quot; title=&quot;Go to Privacy&quot;&gt;Privacy&lt;/a&gt;&lt;/li&gt;&#13;	&lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'terms')$&quot; title=&quot;Go to Terms&quot;&gt;Terms&lt;/a&gt;&lt;/li&gt;&#13;	&lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'jobs-landing')$&quot; title=&quot;Go to Jobs&quot;&gt;Jobs&lt;/a&gt;&lt;/li&gt;&#13;&lt;/ul&gt;&#13;&lt;p&gt;FOUND IT&lt;/p&gt;&#13;&lt;!-- END: footer_about --&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;div&gt;&lt;button class=&quot;title btn text-left btn-block d-sm-none&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapsible-customer-service&quot;&gt;关于&lt;/button&gt;&lt;h2 class=&quot;title d-none d-sm-block&quot;&gt;关于&lt;/h2&gt;&lt;/div&gt;&#13;                &lt;ul id=&quot;collapsible-about&quot;class=&quot;menu-footer content&quot;&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'about-us')$&quot; title=&quot;前往关于我们&quot;&gt;关于我们&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'privacy-policy')$&quot; title=&quot;前往隐私&quot;&gt;隐私政策&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'terms')$&quot; title=&quot;前往条款&quot;&gt;条款&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'jobs-landing')$&quot; title=&quot;前往招聘&quot;&gt;招聘&lt;/a&gt;&lt;/li&gt;&#13;                &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;div&gt;&lt;button class=&quot;title btn text-left btn-block d-sm-none&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapsible-customer-service&quot;&gt;À propos&lt;/button&gt;&lt;h2 class=&quot;title d-none d-sm-block&quot;&gt;À propos&lt;/h2&gt;&lt;/div&gt;&#13;                &lt;ul id=&quot;collapsible-about&quot;class=&quot;menu-footer content&quot;&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'about-us')$&quot; title=&quot;Aller à À propos de nous&quot;&gt;À propos de nous&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'privacy-policy')$&quot; title=&quot;Aller à Déclaration de confidentialité&quot;&gt;Confidentialité&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'terms')$&quot; title=&quot;Aller à Conditions générales&quot;&gt;Conditions générales&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'jobs-landing')$&quot; title=&quot;Aller à Carrières&quot;&gt;Carrières&lt;/a&gt;&lt;/li&gt;&#13;                &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;div&gt;&lt;button class=&quot;title btn text-left btn-block d-sm-none&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapsible-customer-service&quot;&gt;Informazioni su&lt;/button&gt;&lt;h2 class=&quot;title d-none d-sm-block&quot;&gt;Informazioni su&lt;/h2&gt;&lt;/div&gt;&#13;                &lt;ul id=&quot;collapsible-about&quot;class=&quot;menu-footer content&quot;&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'about-us')$&quot; title=&quot;Vai a Chi siamo&quot;&gt;Chi siamo&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'privacy-policy')$&quot; title=&quot;Vai a Privacy&quot;&gt;Privacy&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'terms')$&quot; title=&quot;Vai a Termini&quot;&gt;Termini&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'jobs-landing')$&quot; title=&quot;Vai a Lavora con noi&quot;&gt;Lavora con noi&lt;/a&gt;&lt;/li&gt;&#13;                &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;div&gt;&lt;button class=&quot;title btn text-left btn-block d-sm-none&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapsible-customer-service&quot;&gt;企業情報&lt;/button&gt;&lt;h2 class=&quot;title d-none d-sm-block&quot;&gt;企業情報&lt;/h2&gt;&lt;/div&gt;&#13;                &lt;ul id=&quot;collapsible-about&quot;class=&quot;menu-footer content&quot;&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'about-us')$&quot; title=&quot;「Salesforce について」に移動する&quot;&gt;Salesforce について&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'privacy-policy')$&quot; title=&quot;「プライバシー」に移動する&quot;&gt;プライバシー&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'terms')$&quot; title=&quot;「利用条件」に移動する&quot;&gt;利用条件&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$url('Page-Show', 'cid', 'jobs-landing')$&quot; title=&quot;「採用情報」に移動する&quot;&gt;採用情報&lt;/a&gt;&lt;/li&gt;&#13;                &lt;/ul&gt;&lt;!-- END: footer_about --&gt;</custom-attribute>
         </custom-attributes>
+        <folder-links>
+        </folder-links>
     </content>
 
     <content content-id="footer-account">
         <display-name xml:lang="x-default">Footer Account Links</display-name>
+        <display-name xml:lang="zh-CN">页脚账户链接</display-name>
         <display-name xml:lang="fr-FR">Liens Compte pied de page</display-name>
         <display-name xml:lang="it-IT">Link Account a piè di pagina </display-name>
         <display-name xml:lang="ja-JP">フッターのアカウントリンク</display-name>
-        <display-name xml:lang="zh-CN">页脚账户链接</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
-        <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-account"&gt;Account&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;Account&lt;/h2&gt;&lt;/div&gt;&#13;
-                &lt;ul id="collapsible-account"class="menu-footer content"&gt;&#13;
-                &lt;li&gt;&lt;a href="$httpsURL('Account-Show')$" title="Go to My Account"&gt;My Account&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$httpsURL('Order-History')$" title="Go to Check Order"&gt;Check Order&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;!-- &lt;li&gt;&lt;a href="$httpsURL('Wishlist-Search')$" title="Go to Wishlist"&gt;Find a Wishlist&lt;/a&gt;&lt;/li&gt; --&gt;&#13;
-                &lt;!-- &lt;li&gt;&lt;a href="$httpsURL('GiftRegistry-Landing')$" title="Go to Gift Registry"&gt;Gift Registry&lt;/a&gt;&lt;/li&gt; --&gt;&#13;
-                &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-account"&gt;Compte&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;Compte&lt;/h2&gt;&lt;/div&gt;&#13;
-                &lt;ul id="collapsible-account"class="menu-footer content"&gt;&#13;
-                &lt;li&gt;&lt;a href="$httpsURL('Account-Show')$" title="Aller à Mon compte"&gt;Mon compte&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$httpsURL('Order-History')$" title="Aller à Vérifier la commande"&gt;Vérifier la commande&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="Aller à Liste de souhaits"&gt;Liste de souhaits&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="Aller à Liste de cadeaux"&gt;Liste de cadeaux&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-account"&gt;Account&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;Account&lt;/h2&gt;&lt;/div&gt;&#13;
-                &lt;ul id="collapsible-account"class="menu-footer content"&gt;&#13;
-                &lt;li&gt;&lt;a href="$httpsURL('Account-Show')$" title="Vai a Il mio account"&gt;Il mio account&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$httpsURL('Order-History')$" title="Vai a Controlla ordine"&gt;Controlla ordine&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="Vai a Lista desideri"&gt;Lista desideri&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="Vai a Lista regali"&gt;Lista regali&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-account"&gt;アカウント&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;アカウント&lt;/h2&gt;&lt;/div&gt;&#13;
-                &lt;ul id="collapsible-account"class="menu-footer content"&gt;&#13;
-                &lt;li&gt;&lt;a href="$httpsURL('Account-Show')$" title="「マイアカウント」に移動する"&gt;マイアカウント&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$httpsURL('Order-History')$" title="「注文の確認」に移動する"&gt;注文の確認&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="「ほしい物リスト」に移動する"&gt;ほしい物リスト&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="「ギフトレジストリ」に移動する"&gt;ギフトレジストリ&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-account"&gt;账户&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;账户&lt;/h2&gt;&lt;/div&gt;&#13;
-                &lt;ul id="collapsible-account"class="menu-footer content"&gt;&#13;
-                &lt;li&gt;&lt;a href="$httpsURL('Account-Show')$" title="前往我的账户"&gt;我的账户&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$httpsURL('Order-History')$" title="前往查看订单"&gt;检查订单&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="前往愿望清单"&gt;愿望清单&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="前往礼品登记"&gt;礼品登记&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div&gt;&lt;button aria-controls=&quot;collapsible-account&quot; aria-expanded=&quot;false&quot; class=&quot;title btn text-left btn-block d-sm-none&quot;&gt;Account&lt;/button&gt;&#13;&lt;h2 class=&quot;title d-none d-sm-block&quot;&gt;Account&lt;/h2&gt;&#13;&lt;/div&gt;&#13;&lt;ul class=&quot;menu-footer content&quot; id=&quot;collapsible-account&quot;&gt;&#13;	&lt;li&gt;&lt;a href=&quot;$httpsURL('Account-Show')$&quot; title=&quot;Go to My Account&quot;&gt;My Account&lt;/a&gt;&lt;/li&gt;&#13;	&lt;li&gt;&lt;a href=&quot;$httpsURL('Order-History')$&quot; title=&quot;Go to Check Order&quot;&gt;Check Order&lt;/a&gt;&lt;/li&gt;&#13;&lt;/ul&gt;&#13;&lt;p&gt;FOUND IT&lt;/p&gt;&#13;&lt;ul class=&quot;menu-footer content&quot;&gt;&lt;!-- &lt;li&gt;&lt;a href=&quot;$httpsURL('Wishlist-Search')$&quot; title=&quot;Go to Wishlist&quot;&gt;Find a Wishlist&lt;/a&gt;&lt;/li&gt; --&gt;&lt;!-- &lt;li&gt;&lt;a href=&quot;$httpsURL('GiftRegistry-Landing')$&quot; title=&quot;Go to Gift Registry&quot;&gt;Gift Registry&lt;/a&gt;&lt;/li&gt; --&gt;&#13;&lt;/ul&gt;&#13;&lt;!-- END: footer-account --&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;div&gt;&lt;button class=&quot;title btn text-left btn-block d-sm-none&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapsible-account&quot;&gt;账户&lt;/button&gt;&lt;h2 class=&quot;title d-none d-sm-block&quot;&gt;账户&lt;/h2&gt;&lt;/div&gt;&#13;                &lt;ul id=&quot;collapsible-account&quot;class=&quot;menu-footer content&quot;&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$httpsURL('Account-Show')$&quot; title=&quot;前往我的账户&quot;&gt;我的账户&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$httpsURL('Order-History')$&quot; title=&quot;前往查看订单&quot;&gt;检查订单&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;前往愿望清单&quot;&gt;愿望清单&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;前往礼品登记&quot;&gt;礼品登记&lt;/a&gt;&lt;/li&gt;&#13;                &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;div&gt;&lt;button class=&quot;title btn text-left btn-block d-sm-none&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapsible-account&quot;&gt;Compte&lt;/button&gt;&lt;h2 class=&quot;title d-none d-sm-block&quot;&gt;Compte&lt;/h2&gt;&lt;/div&gt;&#13;                &lt;ul id=&quot;collapsible-account&quot;class=&quot;menu-footer content&quot;&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$httpsURL('Account-Show')$&quot; title=&quot;Aller à Mon compte&quot;&gt;Mon compte&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$httpsURL('Order-History')$&quot; title=&quot;Aller à Vérifier la commande&quot;&gt;Vérifier la commande&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;Aller à Liste de souhaits&quot;&gt;Liste de souhaits&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;Aller à Liste de cadeaux&quot;&gt;Liste de cadeaux&lt;/a&gt;&lt;/li&gt;&#13;                &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;div&gt;&lt;button class=&quot;title btn text-left btn-block d-sm-none&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapsible-account&quot;&gt;Account&lt;/button&gt;&lt;h2 class=&quot;title d-none d-sm-block&quot;&gt;Account&lt;/h2&gt;&lt;/div&gt;&#13;                &lt;ul id=&quot;collapsible-account&quot;class=&quot;menu-footer content&quot;&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$httpsURL('Account-Show')$&quot; title=&quot;Vai a Il mio account&quot;&gt;Il mio account&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$httpsURL('Order-History')$&quot; title=&quot;Vai a Controlla ordine&quot;&gt;Controlla ordine&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;Vai a Lista desideri&quot;&gt;Lista desideri&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;Vai a Lista regali&quot;&gt;Lista regali&lt;/a&gt;&lt;/li&gt;&#13;                &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;div&gt;&lt;button class=&quot;title btn text-left btn-block d-sm-none&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapsible-account&quot;&gt;アカウント&lt;/button&gt;&lt;h2 class=&quot;title d-none d-sm-block&quot;&gt;アカウント&lt;/h2&gt;&lt;/div&gt;&#13;                &lt;ul id=&quot;collapsible-account&quot;class=&quot;menu-footer content&quot;&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$httpsURL('Account-Show')$&quot; title=&quot;「マイアカウント」に移動する&quot;&gt;マイアカウント&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$httpsURL('Order-History')$&quot; title=&quot;「注文の確認」に移動する&quot;&gt;注文の確認&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;「ほしい物リスト」に移動する&quot;&gt;ほしい物リスト&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;「ギフトレジストリ」に移動する&quot;&gt;ギフトレジストリ&lt;/a&gt;&lt;/li&gt;&#13;                &lt;/ul&gt;&lt;!-- END: footer-account --&gt;</custom-attribute>
         </custom-attributes>
+        <folder-links>
+        </folder-links>
     </content>
 
     <content content-id="footer-copy">
@@ -6269,25 +5526,21 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
 
     <content content-id="footer-locate-store">
         <display-name xml:lang="x-default">Footer Locate Store</display-name>
+        <display-name xml:lang="zh-CN">页脚查找商店</display-name>
         <display-name xml:lang="fr-FR">Pied de page Localiser des magasins</display-name>
         <display-name xml:lang="it-IT">Piè di pagina Trova negozio</display-name>
         <display-name xml:lang="ja-JP">フッターの店舗検索</display-name>
-        <display-name xml:lang="zh-CN">页脚查找商店</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
-        <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;a href="$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$" class="menu-footer locate-store"&gt;&lt;h2&gt;Locate Store&lt;/h2&gt;&lt;/a&gt;&#13;
-                &lt;span class="content"&gt;The Store Locator is designed to help you find the closest store near you.&lt;/span&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;a href="$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$" class="menu-footer locate-store"&gt;&lt;h2&gt;Localiser des magasins&lt;/h2&gt;&lt;/a&gt;&#13;
-                &lt;span class="content"&gt;Le localisateur de magasins vous aide à trouver le magasin le plus proche.&lt;/span&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;a href="$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$" class="menu-footer locate-store"&gt;&lt;h2&gt;Trova negozio&lt;/h2&gt;&lt;/a&gt;&#13;
-                &lt;span class="content"&gt;Lo Store Locator è lo strumento che ti aiuta a trovare il negozio più vicino a te.&lt;/span&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;a href="$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$" class="menu-footer locate-store"&gt;&lt;h2&gt;店舗検索&lt;/h2&gt;&lt;/a&gt;&#13;
-                &lt;span class="content"&gt;「店舗検索」でお近くの店舗を検索していただけます。&lt;/span&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;a href="$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$" class="menu-footer locate-store"&gt;&lt;h2&gt;查找实体店&lt;/h2&gt;&lt;/a&gt;&#13;
-                &lt;span class="content"&gt;实体店地址搜索旨在帮助您查找周围最近的实体店。&lt;/span&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;h2&gt;&lt;a class=&quot;menu-footer locate-store&quot; href=&quot;$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$&quot;&gt;Locate Store&lt;/a&gt;&lt;/h2&gt;&#13;&lt;p&gt;&lt;span class=&quot;content&quot;&gt;The Store Locator is designed to help you find the closest store near you.&lt;/span&gt;&lt;/p&gt;&#13;&lt;p&gt;FOUND IT&lt;/p&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;a href=&quot;$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$&quot; class=&quot;menu-footer locate-store&quot;&gt;&lt;h2&gt;查找实体店&lt;/h2&gt;&lt;/a&gt;&#13;                &lt;span class=&quot;content&quot;&gt;实体店地址搜索旨在帮助您查找周围最近的实体店。&lt;/span&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;a href=&quot;$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$&quot; class=&quot;menu-footer locate-store&quot;&gt;&lt;h2&gt;Localiser des magasins&lt;/h2&gt;&lt;/a&gt;&#13;                &lt;span class=&quot;content&quot;&gt;Le localisateur de magasins vous aide à trouver le magasin le plus proche.&lt;/span&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;a href=&quot;$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$&quot; class=&quot;menu-footer locate-store&quot;&gt;&lt;h2&gt;Trova negozio&lt;/h2&gt;&lt;/a&gt;&#13;                &lt;span class=&quot;content&quot;&gt;Lo Store Locator è lo strumento che ti aiuta a trovare il negozio più vicino a te.&lt;/span&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;a href=&quot;$httpsURL('Stores-Find', 'showMap', true, 'horizontalView', true, 'isForm', true)$&quot; class=&quot;menu-footer locate-store&quot;&gt;&lt;h2&gt;店舗検索&lt;/h2&gt;&lt;/a&gt;&#13;                &lt;span class=&quot;content&quot;&gt;「店舗検索」でお近くの店舗を検索していただけます。&lt;/span&gt;</custom-attribute>
         </custom-attributes>
+        <folder-links>
+        </folder-links>
     </content>
 
     <content content-id="footer-social-email">
@@ -6340,50 +5593,21 @@ Sintonizzatore esterno ATSC DTB-H260F Samsung&lt;/div&gt;&#13;
 
     <content content-id="footer-support">
         <display-name xml:lang="x-default">Footer Support Links</display-name>
+        <display-name xml:lang="zh-CN">页脚支持链接</display-name>
         <display-name xml:lang="fr-FR">Liens Assistance en pied de page</display-name>
         <display-name xml:lang="it-IT">Link assistenza a piè di pagina</display-name>
         <display-name xml:lang="ja-JP">フッターのサポートリンク</display-name>
-        <display-name xml:lang="zh-CN">页脚支持链接</display-name>
         <online-flag>true</online-flag>
         <searchable-flag>false</searchable-flag>
-        <page-attributes/>
         <custom-attributes>
-            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-customer-service"&gt;Customer Service&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;Customer Service&lt;/h2&gt;&lt;/div&gt;&#13;
-                &lt;ul id="collapsible-customer-service"class="menu-footer content"&gt;&#13;
-                &lt;li&gt;&lt;a href="$httpsURL('ContactUs-Landing')$" title="Go to Contact Us"&gt;Contact Us&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="Go to Gift Certificates"&gt;Gift Certificates&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="Go to Help"&gt;Help&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="Go to Site Map"&gt;Site Map&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-customer-service"&gt;Service client&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;Service client&lt;/h2&gt;&lt;/div&gt;&#13;
-                &lt;ul id="collapsible-customer-service"class="menu-footer content"&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="Aller à Contactez-nous"&gt;Contactez-nous&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="$#('GiftCert-Purchase')$" title="Aller à Chèques-cadeaux"&gt;Chèques-cadeaux&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="Aller à Aide"&gt;Aide&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="Aller à Plan du site"&gt;Plan du site&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-customer-service"&gt;Servizio clienti&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;Servizio clienti&lt;/h2&gt;&lt;/div&gt;&#13;
-                &lt;ul id="collapsible-customer-service"class="menu-footer content"&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="Vai a Contattaci"&gt;Contattaci&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="Vai a Certificati regalo"&gt;Certificati regalo&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="Vai a Guida"&gt;Guida&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="Vai a Mappa del sito"&gt;Mappa del sito&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-customer-service"&gt;カスタマーサービス&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;カスタマーサービス&lt;/h2&gt;&lt;/div&gt;&#13;
-                &lt;ul id="collapsible-customer-service"class="menu-footer content"&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="「お問い合わせ」に移動する"&gt;お問い合わせ&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="「ギフト券」に移動する"&gt;ギフト券&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="「ヘルプ」に移動する"&gt;ヘルプ&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="「サイトマップ」に移動する"&gt;サイトマップ&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
-            <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;div&gt;&lt;button class="title btn text-left btn-block d-sm-none" aria-expanded="false" aria-controls="collapsible-customer-service"&gt;客户服务&lt;/button&gt;&lt;h2 class="title d-none d-sm-block"&gt;客户服务&lt;/h2&gt;&lt;/div&gt;&#13;
-                &lt;ul id="collapsible-customer-service"class="menu-footer content"&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="前往联系我们"&gt;联系我们&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="前往礼券"&gt;礼券&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="前往帮助"&gt;寻求帮助&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;li&gt;&lt;a href="#" title="前往站点地图"&gt;站点地图&lt;/a&gt;&lt;/li&gt;&#13;
-                &lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="x-default">&lt;div&gt;&lt;button aria-controls=&quot;collapsible-customer-service&quot; aria-expanded=&quot;false&quot; class=&quot;title btn text-left btn-block d-sm-none&quot;&gt;Customer Service&lt;/button&gt;&#13;&lt;h2 class=&quot;title d-none d-sm-block&quot;&gt;Customer Service&lt;/h2&gt;&#13;&lt;/div&gt;&#13;&lt;ul class=&quot;menu-footer content&quot; id=&quot;collapsible-customer-service&quot;&gt;&#13;	&lt;li&gt;&lt;a href=&quot;$httpsURL('ContactUs-Landing')$&quot; title=&quot;Go to Contact Us&quot;&gt;Contact Us&lt;/a&gt;&lt;/li&gt;&#13;	&lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;Go to Gift Certificates&quot;&gt;Gift Certificates&lt;/a&gt;&lt;/li&gt;&#13;	&lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;Go to Help&quot;&gt;Help&lt;/a&gt;&lt;/li&gt;&#13;	&lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;Go to Site Map&quot;&gt;Site Map&lt;/a&gt;&lt;/li&gt;&#13;&lt;/ul&gt;&#13;&lt;p&gt;FOUND IT&lt;/p&gt;&#13;&lt;!-- END: footer_support --&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="zh-CN">&lt;div&gt;&lt;button class=&quot;title btn text-left btn-block d-sm-none&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapsible-customer-service&quot;&gt;客户服务&lt;/button&gt;&lt;h2 class=&quot;title d-none d-sm-block&quot;&gt;客户服务&lt;/h2&gt;&lt;/div&gt;&#13;                &lt;ul id=&quot;collapsible-customer-service&quot;class=&quot;menu-footer content&quot;&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;前往联系我们&quot;&gt;联系我们&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;前往礼券&quot;&gt;礼券&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;前往帮助&quot;&gt;寻求帮助&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;前往站点地图&quot;&gt;站点地图&lt;/a&gt;&lt;/li&gt;&#13;                &lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="fr-FR">&lt;div&gt;&lt;button class=&quot;title btn text-left btn-block d-sm-none&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapsible-customer-service&quot;&gt;Service client&lt;/button&gt;&lt;h2 class=&quot;title d-none d-sm-block&quot;&gt;Service client&lt;/h2&gt;&lt;/div&gt;&#13;                &lt;ul id=&quot;collapsible-customer-service&quot;class=&quot;menu-footer content&quot;&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;Aller à Contactez-nous&quot;&gt;Contactez-nous&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;$#('GiftCert-Purchase')$&quot; title=&quot;Aller à Chèques-cadeaux&quot;&gt;Chèques-cadeaux&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;Aller à Aide&quot;&gt;Aide&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;Aller à Plan du site&quot;&gt;Plan du site&lt;/a&gt;&lt;/li&gt;&#13;                &lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="it-IT">&lt;div&gt;&lt;button class=&quot;title btn text-left btn-block d-sm-none&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapsible-customer-service&quot;&gt;Servizio clienti&lt;/button&gt;&lt;h2 class=&quot;title d-none d-sm-block&quot;&gt;Servizio clienti&lt;/h2&gt;&lt;/div&gt;&#13;                &lt;ul id=&quot;collapsible-customer-service&quot;class=&quot;menu-footer content&quot;&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;Vai a Contattaci&quot;&gt;Contattaci&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;Vai a Certificati regalo&quot;&gt;Certificati regalo&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;Vai a Guida&quot;&gt;Guida&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;Vai a Mappa del sito&quot;&gt;Mappa del sito&lt;/a&gt;&lt;/li&gt;&#13;                &lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
+            <custom-attribute attribute-id="body" xml:lang="ja-JP">&lt;div&gt;&lt;button class=&quot;title btn text-left btn-block d-sm-none&quot; aria-expanded=&quot;false&quot; aria-controls=&quot;collapsible-customer-service&quot;&gt;カスタマーサービス&lt;/button&gt;&lt;h2 class=&quot;title d-none d-sm-block&quot;&gt;カスタマーサービス&lt;/h2&gt;&lt;/div&gt;&#13;                &lt;ul id=&quot;collapsible-customer-service&quot;class=&quot;menu-footer content&quot;&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;「お問い合わせ」に移動する&quot;&gt;お問い合わせ&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;「ギフト券」に移動する&quot;&gt;ギフト券&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;「ヘルプ」に移動する&quot;&gt;ヘルプ&lt;/a&gt;&lt;/li&gt;&#13;                &lt;li&gt;&lt;a href=&quot;#&quot; title=&quot;「サイトマップ」に移動する&quot;&gt;サイトマップ&lt;/a&gt;&lt;/li&gt;&#13;                &lt;/ul&gt;&lt;!-- END: footer_support --&gt;</custom-attribute>
         </custom-attributes>
+        <folder-links>
+        </folder-links>
     </content>
 
     <content content-id="gift-additional-details">
