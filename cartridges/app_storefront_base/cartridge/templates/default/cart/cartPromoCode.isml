@@ -4,8 +4,8 @@
     </div>
 </div>
 <div class="row">
-    <div class="col-12">
-        <a href="#" id="coupon-code-link">${Resource.msg('coupon.code.link', 'cart', null)}</a>
+    <div class="col-12" id='coupon-link-with-css'>
+        <a href="#coupon-link-with-css" id="coupon-code-link">${Resource.msg('coupon.code.link', 'cart', null)}</a>
         <form action="${pdict.actionUrls.submitCouponCodeUrl}" class="promo-code-form" method="GET"
             name="promo-code-form">
             <div class="form-group">
