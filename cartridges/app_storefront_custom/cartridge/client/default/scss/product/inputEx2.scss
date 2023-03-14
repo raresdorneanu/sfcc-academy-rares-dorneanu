@@ -1,0 +1,13 @@
+#coupon-link-with-css {
+    .promo-code-form {
+        display: none;
+    }
+    &:target {
+        .promo-code-form {
+            display: block;
+        }
+        #coupon-code-link {
+            display: none;
+        }
+    }
+}

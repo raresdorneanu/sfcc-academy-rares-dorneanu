@@ -1,8 +1,8 @@
-window.jQuery = window.$ = require('jquery');
-var processInclude = require('./util');
+window.jQuery = window.$ = require("jquery");
+var processInclude = require("./util");
 
-$(document).ready(function () {
-    processInclude(require('../../../../../app_storefront_base/cartridge/client/default/js/main'));
-    processInclude(require('./components/test'));
+$(document).ready(function() {
+    processInclude(require("../../../../../app_storefront_base/cartridge/client/default/js/main"));
+    processInclude(require("./components/test"));
+    processInclude(require("./components/inputEx2"));
 });
-
