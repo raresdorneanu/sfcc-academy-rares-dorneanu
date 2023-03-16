@@ -1,0 +1,12 @@
+<isscript>
+var asset = dw.content.ContentMgr.getContent('data_configured_inside_content_asset')
+</isscript>
+
+<isif condition="${asset && asset.online}">
+    <div style='display:flex; flex-direction:column; justify-content:center; align-items:center'>
+        <isinclude template="/components/modules" sf-toolkit="off" />
+        <iscontentasset aid="data_configured_inside_content_asset" />
+        <img width="200" height="200" title="data configured inside content asset"
+            src='${asset.custom.desktop_banner_image.url}' alt='tanika' />
+    </div>
+</isif>
