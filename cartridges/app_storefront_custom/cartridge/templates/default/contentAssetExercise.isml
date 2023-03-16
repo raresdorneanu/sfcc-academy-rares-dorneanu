@@ -1,0 +1,5 @@
+<div style='display:flex; flex-direction:column; justify-content:center; align-items:center'>
+    <isinclude template="/components/modules" sf-toolkit="off" />
+    <iscontentasset aid="data_configured_inside_content_asset" />
+    <img width="200" height="200" src='${pdict.contentImage}' alt='tanika' />
+</div>
