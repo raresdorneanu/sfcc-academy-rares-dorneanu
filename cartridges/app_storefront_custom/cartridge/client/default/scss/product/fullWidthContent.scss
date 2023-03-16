@@ -1,0 +1,17 @@
+.full-width-flex {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    .content-assets-container {
+        padding: 20px;
+        display: flex;
+        justify-content: space-between;
+        .content-asset {
+            margin-right: 20px;
+            &:last-child {
+                margin-right: 0;
+            }
+        }
+    }
+}
