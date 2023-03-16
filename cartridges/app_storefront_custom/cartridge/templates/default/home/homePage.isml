@@ -1,4 +1,7 @@
 <isdecorate template="common/layout/page">
+    <isinclude template="/components/modules" sf-toolkit="off" />
+    <iscontentasset aid="free_shipping_exercise" />
+    <isinclude template="contentAssetExercise" />
     <isscript>
         var assets = require('*/cartridge/scripts/assets.js');
         assets.addJs('/js/productTile.js');
