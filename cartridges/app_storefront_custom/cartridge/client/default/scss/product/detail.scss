@@ -4,11 +4,16 @@
     padding-bottom: 0.938em;
     padding-top: 0.938em;
 }
+.sliders-container {
+    overflow: hidden;
+    width: 100%;
+}
 
 .slider-image-container {
     display: flex !important;
     justify-content: center;
     align-items: center;
+    margin: 20px 0;
 }
 
 .slick-next::before,
@@ -17,9 +22,13 @@
 }
 
 .slick-prev {
-    left: 0 !important;
+    left: 10px !important;
 }
 
 .slick-next {
-    right: 0 !important;
+    right: 10px !important;
+}
+
+.slick-list {
+    padding: 0 !important;
 }

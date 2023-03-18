@@ -7375,6 +7375,60 @@ Per utilizzare un certificato regalo, specifica il codice di 16 cifre nella pagi
         <sitemap-included-flag site-id="RefArch">false</sitemap-included-flag>
     </content>
 
+    <content content-id="carousel_image_1">
+        <display-name xml:lang="x-default">carousel image 1</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="desktop_banner_image">1.jpg</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+        </folder-links>
+    </content>
+
+    <content content-id="carousel_image_2">
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="desktop_banner_image">pexels-tanika-3687770.jpg</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+        </folder-links>
+    </content>
+
+    <content content-id="carousel_image_3">
+        <display-name xml:lang="x-default">carousel image 3</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="desktop_banner_image">2.jpg</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+        </folder-links>
+    </content>
+
+    <content content-id="carousel_image_4">
+        <display-name xml:lang="x-default">carousel image 4</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="desktop_banner_image">3.jpg</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+        </folder-links>
+    </content>
+
+    <content content-id="carousel_image_5">
+        <display-name xml:lang="x-default">carousel image 5</display-name>
+        <online-flag>true</online-flag>
+        <searchable-flag>true</searchable-flag>
+        <custom-attributes>
+            <custom-attribute attribute-id="desktop_banner_image">4.jpg</custom-attribute>
+        </custom-attributes>
+        <folder-links>
+        </folder-links>
+    </content>
+
     <content content-id="inactive-source-code">
         <display-name xml:lang="x-default">Inactive Source Code Landing Page</display-name>
         <display-name xml:lang="fr-FR">Page principale du code source inactif</display-name>
