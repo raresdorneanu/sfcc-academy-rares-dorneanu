@@ -4,3 +4,22 @@
     padding-bottom: 0.938em;
     padding-top: 0.938em;
 }
+
+.slider-image-container {
+    display: flex !important;
+    justify-content: center;
+    align-items: center;
+}
+
+.slick-next::before,
+.slick-prev::before {
+    color: black !important;
+}
+
+.slick-prev {
+    left: 0 !important;
+}
+
+.slick-next {
+    right: 0 !important;
+}

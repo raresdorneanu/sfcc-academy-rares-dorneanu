@@ -1,0 +1,36 @@
+<isdecorate template="common/layout/page">
+
+    <isscript>
+var asset = dw.content.ContentMgr.getContent('data_configured_inside_content_asset')
+
+</isscript>
+
+    <isinclude template="components/modules" sf-toolkit="off" />
+    <isif condition="${asset && asset.online}">
+        <div class="sliders-container">
+
+            <div class="single-item">
+                <div class="slider-image-container">
+                    <img width="200" height="200" src='${asset.custom.desktop_banner_image.url}' alt='tanika' />
+                </div>
+                <div class="slider-image-container">
+                    <img width="200" height="200" src='${asset.custom.desktop_banner_image.url}' alt='tanika' />
+                </div>
+                <div class="slider-image-container">
+                    <img width="200" height="200" src='${asset.custom.desktop_banner_image.url}' alt='tanika' />
+                </div>
+            </div>
+            <div class="multiple-items">
+                <div class="slider-image-container">
+                    <img width="200" height="200" src='${asset.custom.desktop_banner_image.url}' alt='tanika' />
+                </div>
+                <div class="slider-image-container">
+                    <img width="200" height="200" src='${asset.custom.desktop_banner_image.url}' alt='tanika' />
+                </div>
+                <div class="slider-image-container">
+                    <img width="200" height="200" src='${asset.custom.desktop_banner_image.url}' alt='tanika' />
+                </div>
+            </div>
+        </div>
+    </isif>
+</isdecorate>
