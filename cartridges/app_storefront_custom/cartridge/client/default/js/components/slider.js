@@ -1,15 +1,4 @@
 $(document).ready(function() {
-    // $(".single-item").slick({
-    //     infinite: true,
-    //     arrows: true,
-    //     dots: false
-    // });
-    // $(".multiple-items").slick({
-    //     infinite: true,
-    //     slidesToShow: 3,
-    //     slidesToScroll: 3
-    // });
-
     $(".single-item").slick({
         slidesToShow: 1,
         slidesToScroll: 1,
