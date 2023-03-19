@@ -1,0 +1,39 @@
+.slider-init {
+    padding: 20px 0;
+}
+.hp-product-content {
+    display: none !important;
+}
+.prod {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 50px;
+    width: 50%;
+}
+.image-container img {
+    width: 50% !important;
+    margin: auto;
+}
+
+.tile-body {
+    text-align: center;
+}
+
+.tile-body-footer {
+    justify-content: center;
+    align-items: center;
+}
+
+.slick-next::before,
+.slick-prev::before {
+    color: black !important;
+}
+
+.slick-prev {
+    left: 10px !important;
+}
+
+.slick-next {
+    right: 10px !important;
+}

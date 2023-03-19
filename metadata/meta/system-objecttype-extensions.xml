@@ -691,6 +691,14 @@
                 <mandatory-flag>false</mandatory-flag>
                 <externally-managed-flag>false</externally-managed-flag>
             </attribute-definition>
+            <attribute-definition attribute-id="desktop_banner_image">
+                <display-name xml:lang="x-default">Desktop Banner Image</display-name>
+                <type>image</type>
+                <localizable-flag>false</localizable-flag>
+                <site-specific-flag>false</site-specific-flag>
+                <mandatory-flag>false</mandatory-flag>
+                <externally-managed-flag>false</externally-managed-flag>
+            </attribute-definition>
         </custom-attribute-definitions>
         <group-definitions>
             <attribute-group group-id="Standard">
@@ -723,6 +731,7 @@
                 <display-name xml:lang="x-default">Content</display-name>
                 <attribute attribute-id="body"/>
                 <attribute attribute-id="Year"/>
+                <attribute attribute-id="desktop_banner_image"/>
             </attribute-group>
         </group-definitions>
     </type-extension>
