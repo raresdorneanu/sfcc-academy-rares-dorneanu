@@ -1,0 +1,18 @@
+.badge {
+    background-color: #ff0000;
+    position: absolute;
+    top: -20px;
+    left: 0;
+    z-index: 1;
+    border-radius: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100px;
+    height: 85px;
+}
+
+.badge p {
+    margin-bottom: 0 !important;
+    font-weight: 400;
+}

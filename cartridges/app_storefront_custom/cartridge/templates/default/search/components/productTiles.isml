@@ -1,0 +1,13 @@
+<isloop items="${pdict.productSearch.productIds}" var="product">
+    <div class="col-6 col-sm-4">
+        <isif condition="${pdict.newBadge}">
+            <div class="badge" style="background-color:${pdict.newBadge.badgeBackgroundColor}">
+                <p style="color:${pdict.newBadge.badgeTextColor}">${pdict.newBadge.badgeText}</p>
+            </div>
+        </isif>
+        <isobject object="${product.productSearchHit}" view="searchhit">
+            <isinclude
+                url="${URLUtils.url('Tile-Show', 'pid', product.productID, 'swatches', true, 'ratings', true)}" />
+        </isobject>
+    </div>
+</isloop>
