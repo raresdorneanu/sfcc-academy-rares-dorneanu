@@ -1,0 +1,18 @@
+<isif condition="${pdict.homeAction}">
+    <div class="button-redirect-container">
+        <h2>You are now Home</h2>
+        <a class="button-redirect" href="${URLUtils.url('Login-Show')}">Go to My Account</a>
+    </div>
+</isif>
+<isif condition="${pdict.searchAction}">
+    <div class="button-redirect-container">
+        <h2>You are navigating through a category</h2>
+        <a class="button-redirect" href="${URLUtils.url('Home-Show')}">Go to Homepage</a>
+    </div>
+</isif>
+<isif condition="${pdict.productAction}">
+    <div class="button-redirect-container">
+        <h2>You are navigating through a product</h2>
+        <a class="button-redirect" href="${URLUtils.url('Home-Show')}">Go to Homepage</a>
+    </div>
+</isif>
